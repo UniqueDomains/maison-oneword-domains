@@ -70,10 +70,10 @@ print(df.head())
 | zero.maison     | available | $19.99    | $83.99        | 112            | 53     | 4      | name.com        |
 | the.maison      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC    |
 | security.maison | premium   | $85.80    | $85.80        | 70             | 49     | 8      | namecheap       |
-| fast.maison     | available | $19.99    | $83.99        | 82             | 53     | 4      | name.com        |
+| true.maison     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com        |
 | smart.maison    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC    |
 | travel.maison   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap       |
-| true.maison     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com        |
+| fast.maison     | available | $19.99    | $83.99        | 82             | 52     | 4      | name.com        |
 | shop.maison     | resell    | —         | —             | 78             | 54     | 4      | Dynadot Inc     |
 | gold.maison     | premium   | $260      | $260          | 72             | 48     | 4      | namecheap       |
 | game.maison     | available | $19.99    | $83.99        | 120            | 50     | 4      | name.com        |
@@ -82,7 +82,7 @@ print(df.head())
 | abc.maison      | available | $69.98    | —             | 102            | 50     | 3      | namecheap       |
 | world.maison    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC    |
 | law.maison      | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap       |
-| clear.maison    | available | $19.99    | $83.99        | 90             | 49     | 5      | name.com        |
+| simple.maison   | available | $19.99    | $83.99        | 128            | 49     | 6      | name.com        |
 | Your.maison     | resell    | —         | —             | 68             | 47     | 4      | Gransy, s.r.o.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
