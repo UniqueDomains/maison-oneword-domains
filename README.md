@@ -1,22 +1,22 @@
-# Available .MAISON One-Word Domains (9,800)
+# Available .MAISON One-Word Domains (12,272)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C800%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C800%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C272%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .maison one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .maison one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,272 domains** on the canonical page below.
 
-**Public extract:** 9,800 rows · **Live catalog:** 9,800 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,272 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/maison`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MAISON one-word domai
 
 ### Files
 
-- `maison.csv` — public CSV extract (9,800 rows)
-- `maison.json` — public JSON extract (9,800 rows)
+- `maison.csv` — public CSV extract (1,000 rows)
+- `maison.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| live.maison     | available | $19.99    | $83.99        | 108            | 56     | 4      | name.com        |
-| space.maison    | resell    | —         | —             | 80             | 61     | 5      | NameCheap, Inc. |
-| life.maison     | premium   | $128.70   | $128.70       | 84             | 50     | 4      | namecheap       |
-| zero.maison     | available | $19.99    | $83.99        | 112            | 53     | 4      | name.com        |
-| the.maison      | resell    | —         | —             | 98             | 58     | 3      | Sav.com, LLC    |
-| security.maison | premium   | $85.80    | $85.80        | 70             | 49     | 8      | namecheap       |
-| true.maison     | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com        |
-| smart.maison    | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC    |
-| travel.maison   | premium   | $520      | $520          | 115            | 48     | 6      | namecheap       |
-| fast.maison     | available | $19.99    | $83.99        | 82             | 52     | 4      | name.com        |
-| shop.maison     | resell    | —         | —             | 78             | 54     | 4      | Dynadot Inc     |
-| gold.maison     | premium   | $260      | $260          | 72             | 48     | 4      | namecheap       |
-| game.maison     | available | $19.99    | $83.99        | 120            | 50     | 4      | name.com        |
-| art.maison      | resell    | —         | —             | 90             | 52     | 3      | NameCheap, Inc. |
-| trade.maison    | premium   | $128.70   | $128.70       | 116            | 46     | 5      | namecheap       |
-| abc.maison      | available | $69.98    | —             | 102            | 50     | 3      | namecheap       |
-| world.maison    | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC    |
-| law.maison      | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap       |
-| simple.maison   | available | $19.99    | $83.99        | 128            | 49     | 6      | name.com        |
-| Your.maison     | resell    | —         | —             | 68             | 47     | 4      | Gransy, s.r.o.  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| skills.maison       | available | $19.99    | —             | 58             | 47     | 6      | name.com         |
+| homes.maison        | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC |
+| Tools.maison        | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap        |
+| Ryan.maison         | available | $69.98    | —             | 60             | 44     | 4      | namecheap        |
+| partners.maison     | premium   | $83.99    | —             | 61             | 32     | 8      | name.com         |
+| coins.maison        | available | $19.99    | —             | 56             | 41     | 5      | name.com         |
+| loans.maison        | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
+| lets.maison         | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
+| reports.maison      | premium   | $83.99    | —             | 58             | 24     | 7      | name.com         |
+| whynot.maison       | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
+| girls.maison        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
+| neuroscience.maison | available | $19.99    | —             | 80             | 37     | 12     | name.com         |
+| apartments.maison   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
+| aliens.maison       | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
+| Cats.maison         | available | $69.98    | —             | 59             | 33     | 4      | namecheap        |
+| William.maison      | available | $69.98    | —             | 74             | 31     | 7      | namecheap        |
+| rewards.maison      | available | $19.99    | —             | 62             | 30     | 7      | name.com         |
+| videos.maison       | available | $19.99    | —             | 52             | 30     | 6      | name.com         |
+| popup.maison        | available | $19.99    | —             | 84             | 29     | 6      | name.com         |
+| SanDiego.maison     | available | $19.99    | —             | 74             | 29     | 9      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,800-row public sample | 9,800 live domains                               |
+| 1,000-row public sample | 12,272 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
