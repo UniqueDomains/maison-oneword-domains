@@ -1,10 +1,10 @@
-# Available .MAISON One-Word Domains (12,272)
+# Available .MAISON One-Word Domains (12,779)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C272%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C779%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .maison one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,272 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,779 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,272 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,779 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/maison`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | partners.maison     | premium   | $83.99    | —             | 61             | 32     | 8      | name.com         |
 | coins.maison        | available | $19.99    | —             | 56             | 41     | 5      | name.com         |
 | loans.maison        | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
-| lets.maison         | available | $19.99    | —             | 77             | 39     | 4      | name.com         |
-| reports.maison      | premium   | $83.99    | —             | 58             | 24     | 7      | name.com         |
 | whynot.maison       | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
-| girls.maison        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
+| reports.maison      | premium   | $83.99    | —             | 58             | 24     | 7      | name.com         |
 | neuroscience.maison | available | $19.99    | —             | 80             | 37     | 12     | name.com         |
-| apartments.maison   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
+| girls.maison        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
 | aliens.maison       | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
+| apartments.maison   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
 | Cats.maison         | available | $69.98    | —             | 59             | 33     | 4      | namecheap        |
 | William.maison      | available | $69.98    | —             | 74             | 31     | 7      | namecheap        |
-| rewards.maison      | available | $19.99    | —             | 62             | 30     | 7      | name.com         |
+| slots.maison        | available | $19.99    | —             | 49             | 31     | 5      | name.com         |
 | videos.maison       | available | $19.99    | —             | 52             | 30     | 6      | name.com         |
 | popup.maison        | available | $19.99    | —             | 84             | 29     | 6      | name.com         |
 | SanDiego.maison     | available | $19.99    | —             | 74             | 29     | 9      | name.com         |
+| quotes.maison       | available | $19.99    | —             | 58             | 29     | 6      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,272 live domains                              |
+| 1,000-row public sample | 12,779 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
