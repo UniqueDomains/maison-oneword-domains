@@ -68,7 +68,7 @@ print(df.head())
 | homes.maison        | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC |
 | Tools.maison        | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap        |
 | whynot.maison       | available | $19.99    | —             | 74             | 44     | 7      | name.com         |
-| partners.maison     | premium   | $83.99    | —             | 61             | 32     | 8      | name.com         |
+| partners.maison     | premium   | $83.99    | —             | 61             | 31     | 8      | name.com         |
 | Ryan.maison         | available | $69.98    | —             | 60             | 44     | 4      | namecheap        |
 | loans.maison        | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
 | coins.maison        | available | $19.99    | —             | 56             | 41     | 5      | name.com         |
