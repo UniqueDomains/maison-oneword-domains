@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .maison one-word domains fr
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,777 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $24.64 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,777 domains · **Median ask:** $22.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/maison`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/maison`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MAISON one-word domai
 
 ### Files
 
-- `maison.csv` — public CSV extract (1,000 rows)
-- `maison.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `maison.csv`, public CSV extract (1,000 rows)
+- `maison.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| skills.maison       | available | $19.99    | —             | 58             | 47     | 6      | name.com         |
-| homes.maison        | resell    | —         | —             | 86             | 34     | 5      | GoDaddy.com, LLC |
-| Tools.maison        | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap        |
-| whynot.maison       | available | $19.99    | —             | 74             | 44     | 7      | name.com         |
-| partners.maison     | premium   | $83.99    | —             | 61             | 31     | 8      | name.com         |
-| Ryan.maison         | available | $69.98    | —             | 60             | 44     | 4      | namecheap        |
-| loans.maison        | premium   | $118.80   | $118.80       | 58             | 24     | 5      | namesilo         |
-| coins.maison        | available | $19.99    | —             | 56             | 41     | 5      | name.com         |
-| reports.maison      | premium   | $83.99    | —             | 58             | 24     | 7      | name.com         |
-| neuroscience.maison | available | $19.99    | —             | 80             | 37     | 12     | name.com         |
-| girls.maison        | premium   | $123.75   | —             | 83             | 23     | 5      | name.com         |
-| aliens.maison       | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
-| apartments.maison   | premium   | $78.54    | $78.54        | 60             | 21     | 10     | namesilo         |
-| Cats.maison         | available | $69.98    | —             | 59             | 33     | 4      | namecheap        |
-| William.maison      | available | $69.98    | —             | 74             | 31     | 7      | namecheap        |
-| slots.maison        | available | $19.99    | —             | 49             | 31     | 5      | name.com         |
-| videos.maison       | available | $19.99    | —             | 52             | 30     | 6      | name.com         |
-| SanDiego.maison     | available | $19.99    | —             | 74             | 29     | 9      | name.com         |
-| quotes.maison       | available | $19.99    | —             | 58             | 29     | 6      | name.com         |
-| blocks.maison       | available | $19.99    | —             | 53             | 29     | 6      | name.com         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ada.maison   | available | $19.99    | —             | medium         | medium | 3      | name.com  |
+| law.maison   | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap |
+| ane.maison   | available | $24.99    | $83.99        | low            | low    | 3      | name.com  |
+| mad.maison   | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo  |
+| Ann.maison   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| org.maison   | premium   | $500      | —             | medium         | medium | 3      | name.com  |
+| atp.maison   | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| veg.maison   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo  |
+| awe.maison   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| cake.maison  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo  |
+| bud.maison   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| gold.maison  | premium   | $260      | $260          | high           | medium | 4      | namecheap |
+| cup.maison   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| land.maison  | premium   | $260      | $260          | medium         | low    | 4      | namecheap |
+| day.maison   | available | $19.99    | —             | high           | low    | 3      | name.com  |
+| sexy.maison  | premium   | $83.99    | —             | high           | low    | 4      | name.com  |
+| eve.maison   | available | $19.99    | —             | high           | medium | 3      | name.com  |
+| blink.maison | premium   | $500      | —             | high           | medium | 5      | name.com  |
+| Fla.maison   | available | $19.99    | —             | medium         | low    | 3      | name.com  |
+| shoes.maison | premium   | $85.80    | $85.80        | high           | low    | 5      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .maison extension. The set includes broad terms such as title.maison, info.maison, release.maison, and parallel.maison, alongside more specific words like detergent.maison and prenatal.maison. For founders, the main question is whether the word stays clear and memorable when paired with .maison. For investors, the key issue is selectivity: a niche extension can produce sharp branding fit, but buyer demand may be narrower than mainstream TLDs. When comparing these domains, start with exact word quality, then check commercial relevance, ambiguity, and whether the term feels natural on .maison rather than forced.
+This list of .maison domain names covers 12,777 single-string entries, mixing everyday words such as tips.maison and edamame.maison with idiomatic phrases like bonappetit.maison and fitthebill.maison. Median asking price across the set is near $22, making it a low-cost pool for testing a brand or spotting an undervalued name. Because .maison is a smaller extension, both founders and investors typically weigh brandability, exact-match search visibility, and renewal cost before choosing an entry from this list.
 
-- Favor words that read cleanly with .maison
-- Check if the term is broad, specific, or awkward
-- Use median ask 24.64 as a pricing anchor
-- Be cautious with niche-fit and resale depth
+- 12,777 one-word .maison domain names in this set
+- Median asking price near $22 across the list
+- Mix of short words and phrases like bonappetit.maison
+- Updated daily to reflect current .maison listings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
