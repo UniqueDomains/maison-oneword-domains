@@ -17,7 +17,7 @@ a9a136d7-7b8a-46aa-b9f4-57a026e1fe12,byword.maison,available,57.99,57.99,medium,
 8f83aca9-071e-4ca2-899f-6604a4a4a182,obadiah.maison,available,60.98,69.98,medium,low,7,namecheap,,,16/09/2026 14:40
 b3edba7a-2b64-4d72-ac37-486a529829bb,leaning.maison,available,24.99,83.99,high,low,7,name.com,,,07/08/2026 13:24
 86a7f863-4df9-4537-8bcc-b076137c917b,corroded.maison,available,24.99,83.99,medium,low,8,name.com,,,13/08/2026 02:05
-d877eff9-b9f8-4fe7-af83-16d1d8fb2c6f,sudden.maison,available,19.99,,high,low,6,name.com,,,
+d877eff9-b9f8-4fe7-af83-16d1d8fb2c6f,sudden.maison,available,57.99,57.99,high,low,6,namesilo,,,28/09/2026 01:51
 ff5c4a0d-ffc3-4a55-b991-3562b75e626f,cruz.maison,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 11:52
 a9ce53f5-ecf6-4c6b-9468-9e9e5af9d18b,inhabit.maison,available,24.99,83.99,high,low,7,name.com,,,24/08/2026 07:51
 91b6f061-257f-4e40-b264-e60a17c4c396,adviser.maison,available,19.99,,high,low,7,name.com,,,
@@ -29,20 +29,22 @@ d9c8a4a1-8784-41bb-81d4-9be2c141e109,gonzo.maison,available,24.99,83.99,high,low
 0bdca611-370d-46b1-b8b2-d1712ceccbc9,oral.maison,available,57.99,57.99,high,low,4,namesilo,,,04/09/2026 17:14
 58f1a810-47de-4758-b9f7-0f2056e6e1b3,twopenny.maison,available,57.99,57.99,high,low,8,namesilo,,,10/09/2026 09:10
 ae6ab4e1-aa9a-400f-83bb-9442e32aae63,municipal.maison,available,57.99,57.99,high,low,9,namesilo,,,03/09/2026 10:58
-f19a36bf-7993-4705-b36f-dd03373d2df7,summerset.maison,available,24.99,83.99,high,low,9,name.com,,,18/08/2026 08:29
+f19a36bf-7993-4705-b36f-dd03373d2df7,summerset.maison,available,24.99,83.99,medium,low,9,name.com,,,18/08/2026 08:29
+461f3f57-7396-4ab2-be33-b938531c4bd9,inappropriate.maison,available,44.2,44.2,medium,low,13,cloudflare,,,27/09/2026 16:59
 d3c2f06d-e4d7-4cd2-8b16-2cdd8a44a8c3,component.maison,available,60.98,69.98,high,low,9,namecheap,,,23/09/2026 20:58
 339b69b3-9686-4744-8909-847c998ad6d2,paranoid.maison,available,57.99,57.99,high,low,8,namesilo,,,08/09/2026 01:06
 7c9a2196-0fc5-4a04-8a7e-eb722ecca201,organismic.maison,available,60.98,69.98,medium,low,10,namecheap,,,04/09/2026 17:49
 f2066e76-c235-4b2a-8c20-2f118859fced,mate.maison,available,60.98,69.98,high,low,4,namecheap,,,23/09/2026 11:43
 d1b72b95-a12a-452d-8756-66b711cc3522,luanda.maison,available,60.98,69.98,medium,low,6,namecheap,,,19/09/2026 06:58
-e71f22d1-33d3-41f6-9b8e-07e49884df67,standing.maison,available,19.99,,high,low,8,name.com,,,
-68783630-eb0d-4e75-a669-3e2299c69fa6,disobedience.maison,available,57.99,57.99,high,low,12,namesilo,,,16/09/2026 12:19
+e71f22d1-33d3-41f6-9b8e-07e49884df67,standing.maison,available,13.39,45.83,high,low,8,porkbun,,,28/09/2026 00:41
+68783630-eb0d-4e75-a669-3e2299c69fa6,disobedience.maison,available,57.99,57.99,medium,low,12,namesilo,,,16/09/2026 12:19
 3d79d819-eead-42b0-9e8b-e3eb9bee73dc,prissily.maison,available,60.98,69.98,low,low,8,namecheap,,,15/09/2026 21:29
 39f88154-0ec0-4fd7-ad4e-f393c4003e62,electrical.maison,available,24.99,83.99,high,low,10,name.com,,,16/08/2026 02:39
+850532e1-7609-491e-9381-e40df277e0ce,hadley.maison,available,44.2,44.2,medium,low,6,cloudflare,,,27/09/2026 20:44
 dc779dc1-ad1c-4b4f-b06d-d46a05ffa2d2,dilute.maison,available,24.99,83.99,high,low,6,name.com,,,
 180762a9-1011-4224-87a0-56b1c8377fed,surgical.maison,available,57.99,57.99,high,low,8,namesilo,,,11/09/2026 04:01
 dddd2d8c-d08b-4512-9b08-05235db7fca1,habitable.maison,available,24.99,83.99,high,low,9,name.com,,,20/08/2026 21:25
-2d96fe25-5b1a-490b-a573-f96ca6459256,leek.maison,available,60.98,69.98,high,low,4,namecheap,,,18/09/2026 11:25
+2d96fe25-5b1a-490b-a573-f96ca6459256,leek.maison,available,60.98,69.98,medium,low,4,namecheap,,,18/09/2026 11:25
 5ef51864-1508-4d89-be06-747782d89220,brambly.maison,available,24.99,83.99,medium,low,7,name.com,,,11/08/2026 01:59
 13ee1b07-30f3-4f93-a889-745f35dc6712,mirthful.maison,available,24.99,83.99,high,low,8,name.com,,,12/08/2026 19:00
 5cc81694-2042-4c5e-b4e5-c588cd4630fb,promised.maison,available,60.98,69.98,high,low,8,namecheap,,,17/09/2026 11:24
@@ -53,11 +55,11 @@ dddd2d8c-d08b-4512-9b08-05235db7fca1,habitable.maison,available,24.99,83.99,high
 e54378ad-14c2-44b6-86dc-9ea1c1d4c0d2,violent.maison,available,57.99,57.99,high,low,7,namesilo,,,11/09/2026 09:46
 6c3416f1-0cd1-44ff-9f1d-caff3136b132,cypriote.maison,available,24.99,83.99,medium,low,8,name.com,,,13/08/2026 14:05
 c6c2def7-1b01-4c80-9a55-f3e180788196,brass.maison,available,19.99,,high,low,5,name.com,,,
-0428c6bf-ea41-45fc-94fa-73fe91206957,roomy.maison,available,19.99,,high,low,5,name.com,,,
-70094b93-a611-42b7-8082-3662592ddf27,thee.maison,available,19.99,,high,low,4,name.com,,,
-90036d7b-b86c-4bf1-b6d0-a2a6623885f0,zoonotic.maison,available,57.99,57.99,high,low,8,namesilo,,,13/09/2026 15:35
+0428c6bf-ea41-45fc-94fa-73fe91206957,roomy.maison,available,45.74,45.74,high,low,5,spaceship,,,27/09/2026 16:14
+70094b93-a611-42b7-8082-3662592ddf27,thee.maison,available,19.99,,medium,low,4,name.com,,,
+90036d7b-b86c-4bf1-b6d0-a2a6623885f0,zoonotic.maison,available,57.99,57.99,medium,low,8,namesilo,,,13/09/2026 15:35
 88f0efc4-fe34-4706-b095-91f1d74e55c7,dearest.maison,available,24.99,83.99,high,low,7,name.com,,,09/08/2026 13:50
-eaaeb787-f113-448c-b855-b7d3db3b0f2b,choosy.maison,available,24.99,83.99,high,low,6,name.com,,,12/08/2026 06:53
+eaaeb787-f113-448c-b855-b7d3db3b0f2b,choosy.maison,available,24.99,83.99,medium,low,6,name.com,,,12/08/2026 06:53
 8917374a-62a3-40cc-b4fa-4bc2355d1d5f,manzanita.maison,available,60.98,69.98,medium,low,9,namecheap,,,20/09/2026 01:04
 ccdd1fc9-2a70-44fc-bee2-707ef2b19290,anionic.maison,available,24.99,83.99,medium,low,7,name.com,,,
 6c435779-32ef-4afd-86a8-c9874719c6bd,struggle.maison,available,19.99,,high,low,8,name.com,,,
@@ -71,8 +73,8 @@ e1ad0338-e0ce-4b84-8f79-18ab9e1080c8,endoscopic.maison,available,24.99,83.99,med
 d57f24e5-5f29-49f5-ba0f-eef1d9c7a967,oily.maison,available,24.99,83.99,medium,low,4,name.com,,,11/08/2026 11:42
 92261743-e9f1-43e1-b856-fd6087dc8a7c,uncertain.maison,available,24.99,83.99,high,low,9,name.com,,,22/08/2026 01:07
 70266ca8-94ee-420c-9283-f674199b30ca,funky.maison,available,24.99,83.99,high,low,5,name.com,,,18/08/2026 02:27
-ed652686-bb53-4e35-b4f6-a4f4ed00a76a,favoritism.maison,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 22:35
-9feff094-d9b7-43dc-9f21-176284c5d47a,hurry.maison,available,19.99,,high,low,5,name.com,,,
+ed652686-bb53-4e35-b4f6-a4f4ed00a76a,favoritism.maison,available,57.99,57.99,medium,low,10,namesilo,,,24/09/2026 22:35
+9feff094-d9b7-43dc-9f21-176284c5d47a,hurry.maison,available,44.2,44.2,high,low,5,cloudflare,,,27/09/2026 17:14
 0c061086-0a19-4d21-941a-2278bd089a45,leads.maison,available,60.98,69.98,high,low,5,namecheap,,,25/09/2026 20:21
 308b915a-0a91-429d-bb54-69ae5226e28c,magical.maison,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 16:07
 2e128655-4fc0-45ba-82b1-87ef6aa2f298,select.maison,available,57.99,57.99,high,medium,6,namesilo,,,22/09/2026 23:07
@@ -93,16 +95,16 @@ dccc538f-be32-4819-9245-652a32c8089f,verily.maison,available,57.99,57.99,medium,
 03bda3cd-d3f8-49c5-be15-d0c08f332794,bridgeable.maison,available,24.99,83.99,medium,low,10,name.com,,,11/08/2026 04:00
 cea689af-8ea4-4c1d-9b19-ede1f6c47cc7,scruples.maison,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 17:26
 eeab1473-0fa8-409e-bbf5-77368e236479,autopsy.maison,available,57.99,57.99,high,low,7,namesilo,,,21/09/2026 07:38
-33793d6a-80bb-411d-8787-bcfd889ccbb5,unassuming.maison,available,19.99,,high,low,10,name.com,,,
+33793d6a-80bb-411d-8787-bcfd889ccbb5,unassuming.maison,available,45.74,45.74,high,low,10,spaceship,,,27/09/2026 13:26
 c1b84752-c265-4b4b-a632-3baad024dc3d,den.maison,available,57.99,57.99,high,low,3,namesilo,,,24/09/2026 21:50
 4f5f2303-9a3a-4fdc-afbd-5d310d891c04,antimatter.maison,available,57.99,57.99,high,low,10,namesilo,,,19/09/2026 14:40
 325f2b5f-579c-4613-9f1a-a984b0e6cf19,padded.maison,available,24.99,83.99,high,low,6,name.com,,,13/08/2026 11:57
 3ed205e6-24b7-46ca-b1cb-5db36535976a,peckish.maison,available,24.99,83.99,medium,low,7,name.com,,,22/08/2026 10:23
-2b80c72b-5f2b-4505-941d-23f45f7d7712,unalarming.maison,available,57.99,57.99,high,low,10,namesilo,,,12/09/2026 00:14
+2b80c72b-5f2b-4505-941d-23f45f7d7712,unalarming.maison,available,57.99,57.99,medium,low,10,namesilo,,,12/09/2026 00:14
 7b383dd8-5543-474a-bb21-b06f51051483,angered.maison,available,24.99,83.99,medium,low,7,name.com,,,
 7dd9ff78-807f-4dde-97ad-c2b9cec7410b,nfl.maison,available,57.99,57.99,high,low,3,namesilo,,,26/09/2026 03:28
 77d1b7fa-ee17-4192-92f8-b433fd96a940,apodictic.maison,available,24.99,83.99,medium,low,9,name.com,,,06/08/2026 01:27
-5286b7fe-ca13-496d-a033-be406b05e17b,archival.maison,available,24.99,83.99,high,low,8,name.com,,,06/08/2026 15:53
+5286b7fe-ca13-496d-a033-be406b05e17b,archival.maison,available,24.99,83.99,medium,low,8,name.com,,,06/08/2026 15:53
 2255d302-83ff-42a1-8097-c28bd1b6b4c4,quarto.maison,available,57.99,57.99,medium,low,6,namesilo,,,16/09/2026 12:37
 9020ab3a-c7a2-4e33-9ef4-40600dc592c4,brush.maison,available,19.99,,high,low,5,name.com,,,
 e811a9fb-2042-4d27-a479-d5a15f1b2446,lenticular.maison,available,24.99,83.99,high,low,10,name.com,,,09/08/2026 19:26
@@ -128,7 +130,7 @@ e8ab14d6-b3e0-4811-8948-da14a97d2d2f,prenuptial.maison,available,60.98,69.98,hig
 1adc3100-b175-4e1e-a5d2-9a52fae81028,chimeric.maison,available,24.99,83.99,medium,low,8,name.com,,,12/08/2026 05:37
 31a23ad9-14fa-4266-878d-65c276b08c95,commitment.maison,available,57.99,57.99,high,low,10,namesilo,,,18/09/2026 10:59
 0087e497-2864-4a73-9599-ce11a809b313,puku.maison,available,57.99,57.99,medium,low,4,namesilo,,,17/09/2026 07:35
-190492aa-06b9-4718-885a-e4777961d6fc,reticent.maison,available,19.99,,high,low,8,name.com,,,
+190492aa-06b9-4718-885a-e4777961d6fc,reticent.maison,available,13.39,45.83,high,low,8,porkbun,,,27/09/2026 12:59
 ef2ef29e-7add-48ee-9e46-ccb3a72a29ce,tricky.maison,available,24.99,83.99,high,low,6,name.com,,,11/08/2026 21:23
 135d5a5a-f718-4ad4-b5bf-9d780820d00d,infancy.maison,available,57.99,57.99,high,low,7,namesilo,,,21/09/2026 13:47
 d548ee22-166f-4139-a762-0b78a955c517,crustal.maison,available,24.99,83.99,medium,low,7,name.com,,,13/08/2026 09:20
@@ -136,7 +138,7 @@ d548ee22-166f-4139-a762-0b78a955c517,crustal.maison,available,24.99,83.99,medium
 63a3d139-7846-40ed-96a3-1279e4456d68,ring.maison,available,19.99,,high,low,4,name.com,,,
 83965314-10d8-4272-a692-25e699ba6b47,gather.maison,available,60.98,69.98,high,medium,6,namecheap,,,23/09/2026 20:27
 4ce2c122-7ef4-4539-9407-6cdb454ba713,golden.maison,available,24.99,83.99,high,low,6,name.com,,,18/08/2026 23:35
-e53048b9-a2cd-4ae8-afcc-2de8e87da373,prying.maison,available,57.99,57.99,high,low,6,namesilo,,,03/09/2026 21:52
+e53048b9-a2cd-4ae8-afcc-2de8e87da373,prying.maison,available,57.99,57.99,medium,low,6,namesilo,,,03/09/2026 21:52
 58dfc737-1036-4a94-a194-6a62e9e2aec2,charged.maison,available,24.99,83.99,high,low,7,name.com,,,12/08/2026 02:31
 f8eafc99-0513-46f7-8bdf-bb8ce0250f80,diversion.maison,available,57.99,57.99,high,low,9,namesilo,,,24/09/2026 23:18
 14bdca0d-1247-4723-909f-963da0ec6693,rooney.maison,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 07:48
@@ -147,7 +149,7 @@ bf2cf593-4fda-4850-a579-08b090805106,rightish.maison,available,57.99,57.99,mediu
 891b0cbe-30b7-4afb-bd8c-4288b1ef9689,seagoing.maison,available,57.99,57.99,medium,low,8,namesilo,,,04/09/2026 00:24
 75c36f6d-f61e-4195-9f53-07ab61c598f4,pup.maison,available,19.99,,high,low,3,name.com,,,
 3a53a9eb-567e-4a7f-afb9-ae6a799956a2,marxist.maison,available,24.99,83.99,high,low,7,name.com,,,10/08/2026 17:53
-a4c45810-a704-4951-bbe1-4de1f3fbc726,chordal.maison,available,24.99,83.99,high,low,7,name.com,,,12/08/2026 07:06
+a4c45810-a704-4951-bbe1-4de1f3fbc726,chordal.maison,available,24.99,83.99,medium,low,7,name.com,,,12/08/2026 07:06
 a17699d2-a9bd-45f8-85df-b6f7048834ea,biscuit.maison,available,60.98,69.98,high,low,7,namecheap,,,23/09/2026 21:32
 aee21c77-5e0a-4fc4-ab7e-5160422a5c02,income.maison,available,19.99,,high,low,6,name.com,,,
 cef4b205-54ff-4fd1-9125-e3357dceb86c,impulsive.maison,available,24.99,83.99,high,low,9,name.com,,,11/08/2026 01:34
@@ -167,13 +169,13 @@ b25b3246-6529-46e0-b2ba-edf66d8ec4fd,artless.maison,available,24.99,83.99,medium
 9f828459-e63a-47e5-8b41-e2f177f1fdc5,darkened.maison,available,24.99,83.99,medium,low,8,name.com,,,13/08/2026 18:08
 1006a55c-2875-4c3a-90c5-ac299c896030,standardize.maison,available,19.99,,high,low,11,name.com,,,
 10fda436-8099-4d02-b2a3-a16ea65e8ac2,works.maison,available,60.98,69.98,high,low,5,namecheap,,,24/09/2026 21:13
-099d5e2d-3d69-4d5c-b417-364d5902c230,pickings.maison,available,57.99,57.99,high,low,8,namesilo,,,11/09/2026 07:21
+099d5e2d-3d69-4d5c-b417-364d5902c230,pickings.maison,available,57.99,57.99,medium,low,8,namesilo,,,11/09/2026 07:21
 11b5bf15-cc39-408e-866b-6815fc4d13c8,phony.maison,available,24.99,83.99,medium,low,5,name.com,,,08/08/2026 23:09
 802a574d-3144-4c0e-8bb6-145afe584e61,derogative.maison,available,24.99,83.99,medium,low,10,name.com,,,14/08/2026 03:10
 b819cfe6-1149-4ff7-839b-9f8d94558afe,report.maison,available,19.99,,high,low,6,name.com,,,
 0c9d70d1-8f3a-4843-bde0-6223d4d6ffbf,transverse.maison,available,24.99,83.99,high,low,10,name.com,,,13/08/2026 07:54
 bfdb1cdb-2896-4dab-82e2-f491bae18a6c,eolotropic.maison,available,24.99,83.99,medium,low,10,name.com,,,
-4781810e-108c-4edd-a864-e6462adb6fd2,akron.maison,available,60.98,69.98,high,low,5,namecheap,,,18/09/2026 00:14
+4781810e-108c-4edd-a864-e6462adb6fd2,akron.maison,available,60.98,69.98,medium,low,5,namecheap,,,18/09/2026 00:14
 4546fe22-d54d-4ab2-b396-9f2b5ff4c28d,uncial.maison,available,57.99,57.99,medium,low,6,namesilo,,,12/09/2026 05:10
 75a37f64-d11c-4fa1-9d99-5d027bd91887,unshaven.maison,available,57.99,57.99,medium,low,8,namesilo,,,12/09/2026 19:40
 1f1d0abb-d84a-48e1-9cd7-86208bb47ad1,smashing.maison,available,24.99,83.99,high,low,8,name.com,,,08/08/2026 12:53
@@ -201,7 +203,7 @@ a34b1ea5-c375-4863-9f1e-83d80e4ec2da,imperial.maison,available,24.99,83.99,high,
 0c2462a3-28d9-4610-8f5f-c85b4cea1796,distributed.maison,available,19.99,83.99,high,low,11,name.com,,,
 47335d66-ac8e-42b3-abe7-83a1c70bd44a,yob.maison,available,24.99,83.99,medium,low,3,name.com,,,11/08/2026 08:46
 c980a81b-4b86-4c97-adbc-e0ee2810e868,syndicate.maison,available,57.99,57.99,high,low,9,namesilo,,,24/09/2026 17:30
-8fcbf61a-164a-46f2-a943-0da9d3b16019,ventolin.maison,available,60.98,69.98,high,low,8,namecheap,,,18/09/2026 03:33
+8fcbf61a-164a-46f2-a943-0da9d3b16019,ventolin.maison,available,60.98,69.98,medium,low,8,namecheap,,,18/09/2026 03:33
 25f55416-6e10-4608-ad6c-9356a51b827b,vantage.maison,available,57.99,57.99,high,medium,7,namesilo,,,17/09/2026 10:29
 0063779b-dc45-4cc9-9bfb-3b1111e4585b,pleural.maison,available,60.98,69.98,medium,low,7,namecheap,,,08/09/2026 21:15
 6a443108-9eb1-47c8-ac51-3addecc540b4,defendant.maison,available,60.98,69.98,medium,low,9,namecheap,,,27/09/2026 03:41
@@ -211,13 +213,13 @@ c980a81b-4b86-4c97-adbc-e0ee2810e868,syndicate.maison,available,57.99,57.99,high
 ad83298e-d212-4244-b70c-7af8eca9afae,onion.maison,available,19.99,,high,low,5,name.com,,,
 a6017baf-d69e-425b-8cdb-e852a0afcd03,tidy.maison,available,24.99,83.99,high,low,4,name.com,,,20/08/2026 16:42
 6a8878a6-ecaf-46c7-9048-b52fc16c694a,stieglitz.maison,available,57.99,57.99,medium,low,9,namesilo,,,18/09/2026 06:45
-39a2fa30-9907-4700-abe6-f2cd67c96ec7,skintight.maison,available,57.99,57.99,high,low,9,namesilo,,,10/09/2026 09:40
+39a2fa30-9907-4700-abe6-f2cd67c96ec7,skintight.maison,available,57.99,57.99,medium,low,9,namesilo,,,10/09/2026 09:40
 3fb5597a-387b-4d53-ba62-a6a78d63493e,tenderness.maison,available,57.99,57.99,high,low,10,namesilo,,,17/09/2026 14:18
 bce24158-6a69-46f1-b8f8-1a37839a30df,corey.maison,available,57.99,57.99,high,low,5,namesilo,,,26/09/2026 03:27
 a9b941f0-a53d-4009-8032-58eca82d7183,government.maison,available,60.98,69.98,high,low,10,namecheap,,,24/09/2026 22:50
 2049e215-6aac-463f-bf1a-5c56b030fe4c,nearer.maison,available,19.99,,medium,low,6,name.com,,,
 373f87b4-0297-46f5-9e1a-63d3fc2cb22e,algorithm.maison,available,57.99,57.99,high,low,9,namesilo,,,18/09/2026 07:16
-33f06b7b-60f6-4647-872e-780d3e8266f3,stratford.maison,available,57.99,57.99,high,low,9,namesilo,,,25/09/2026 14:45
+33f06b7b-60f6-4647-872e-780d3e8266f3,stratford.maison,available,57.99,57.99,medium,low,9,namesilo,,,25/09/2026 14:45
 2699b8ec-4f77-4d29-8179-3fca6d424f37,bionomic.maison,available,24.99,83.99,medium,low,8,name.com,,,10/08/2026 03:03
 c4db3acd-b93a-44cd-b3f9-d879c9d4dceb,hume.maison,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 04:46
 a32fdb81-79b4-45a2-9543-afae8bcef1d6,dispatching.maison,available,19.99,,high,low,11,name.com,,,
@@ -235,6 +237,7 @@ ec76c3be-3d10-4a02-ad25-31d765195777,picky.maison,available,24.99,83.99,high,low
 73921cca-cd31-4011-b73f-6a1480937e51,inhabitant.maison,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 21:51
 8870068a-33ef-4e05-9fb6-fb09a6e9e45a,unclaimed.maison,available,57.99,57.99,high,low,9,namesilo,,,12/09/2026 05:13
 a8170266-8c50-4c7e-a32d-db488741f8ac,maddening.maison,available,24.99,83.99,medium,low,9,name.com,,,17/08/2026 15:55
+12ba6879-1f66-4beb-b93c-a9cdcdd0969b,karachi.maison,available,57.99,57.99,high,low,7,namesilo,,,28/09/2026 02:13
 cec3de79-f82c-4cf3-8dac-ce6974c7e5fb,overs.maison,available,57.99,57.99,medium,low,5,namesilo,,,20/09/2026 10:07
 50e795ff-3058-43e3-9092-a2aafd0f4ca8,confucian.maison,available,24.99,83.99,high,low,9,name.com,,,12/08/2026 21:15
 8a17f2bd-df06-49ab-bcb7-224e1824f341,bakelite.maison,available,60.98,69.98,medium,low,8,namecheap,,,21/09/2026 20:15
@@ -276,7 +279,7 @@ f721e3ec-9c55-4eee-a170-0734447d8629,net.maison,premium,512,512,high,medium,3,na
 ef3b3ace-7166-4efd-a6cb-6ddd92e46326,daedal.maison,available,24.99,83.99,medium,low,6,name.com,,,13/08/2026 15:30
 d30e87a9-ecb4-414d-bd41-b37e2e31c5f7,tapestry.maison,available,60.98,69.98,high,low,8,namecheap,,,20/09/2026 08:48
 2829f564-8fbf-4d1e-8a63-e0d49e761544,shotgun.maison,available,57.99,57.99,high,low,7,namesilo,,,26/09/2026 00:14
-d7e954b7-dd02-4d05-b286-537ba7bcc091,unbranded.maison,available,57.99,57.99,high,low,9,namesilo,,,12/09/2026 04:29
+d7e954b7-dd02-4d05-b286-537ba7bcc091,unbranded.maison,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 04:29
 e212dbf4-a889-4d61-b56d-ea7ed0323049,preferences.maison,available,19.99,83.99,high,low,11,name.com,,,
 bdbc9c70-e2a4-4c0f-8498-6d727c0ff4c0,genetic.maison,available,24.99,83.99,high,low,7,name.com,,,18/08/2026 21:31
 b9f7f28c-233e-4fa7-b440-ee570bd8678f,transonic.maison,available,57.99,57.99,medium,low,9,namesilo,,,10/09/2026 14:11
@@ -284,7 +287,7 @@ b9f7f28c-233e-4fa7-b440-ee570bd8678f,transonic.maison,available,57.99,57.99,medi
 2a5e9865-1f28-4d46-85c8-ad66a57784c5,fuss.maison,available,57.99,57.99,high,low,4,namesilo,,,17/09/2026 09:21
 b72eff86-0e5e-41a2-b3ea-954202fc9000,revolting.maison,available,24.99,83.99,medium,low,9,name.com,,,14/08/2026 10:45
 0d457d38-2ce7-404e-8879-cd877927ae43,unethical.maison,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 09:19
-56ab0bd3-8d2a-48bd-8665-a1a99828b27f,businesses.maison,available,57.99,57.99,high,low,10,namesilo,,,23/09/2026 07:34
+56ab0bd3-8d2a-48bd-8665-a1a99828b27f,businesses.maison,available,57.99,57.99,medium,low,10,namesilo,,,23/09/2026 07:34
 b33c8bc6-beea-49f9-a09d-5e14c4097aa1,jazz.maison,available,19.99,,high,low,4,name.com,,,
 68f231c9-edc8-4d59-9f42-b54c4b5c4156,player.maison,available,57.99,57.99,high,low,6,namesilo,,,23/09/2026 07:45
 28681e52-3f09-4ee7-a65e-a85dfe3278ac,ovoid.maison,available,24.99,83.99,medium,low,5,name.com,,,15/08/2026 18:50
@@ -295,6 +298,7 @@ f58823b4-6e80-483b-863f-8c7e782cd7ed,pally.maison,available,24.99,83.99,high,low
 ba0f813d-2588-4d1c-9420-bfb3bc044530,axolotl.maison,available,57.99,57.99,high,low,7,namesilo,,,18/09/2026 17:37
 90b732e3-8942-4c29-b512-11f3007fd38b,neaten.maison,available,57.99,57.99,high,low,6,namesilo,,,11/09/2026 15:42
 c04ca0b4-a405-4eca-885c-9d6d59293a04,directed.maison,available,60.98,69.98,high,low,8,namecheap,,,24/09/2026 10:49
+3e045ce3-ae8e-427f-bd34-14e0000c0f39,submit.maison,available,57.99,57.99,high,low,6,namesilo,,,27/09/2026 16:26
 57b04f44-a61e-42b2-a9f2-dadf09378e0b,dim.maison,available,24.99,83.99,high,low,3,name.com,,,10/08/2026 13:58
 1d6a403b-c5f5-45e7-af43-ecc5d16a9427,labial.maison,available,24.99,83.99,medium,low,6,name.com,,,22/08/2026 17:19
 a4f5270f-43e1-4a05-b544-210747324e7d,carnegie.maison,available,60.98,69.98,high,low,8,namecheap,,,19/09/2026 04:42
@@ -306,7 +310,7 @@ fef641f9-1a5d-4c04-91b2-5212c23c9788,arabist.maison,available,57.99,57.99,medium
 6e7de5a0-4013-42ac-b81f-12cf5a0c48e6,boost.maison,available,19.99,,high,low,5,name.com,,,
 05a99dd6-da96-47b6-91e6-fcd7c22dcebb,properties.maison,premium,78.54,78.54,high,low,10,namesilo,,,
 0ff76a74-b7f6-49e4-acb7-da2474e38743,anticlimax.maison,available,57.99,57.99,medium,low,10,namesilo,,,19/09/2026 14:16
-637f59db-c768-4277-a65b-0462dbfb3100,humanely.maison,available,57.99,57.99,high,low,8,namesilo,,,15/09/2026 01:17
+637f59db-c768-4277-a65b-0462dbfb3100,humanely.maison,available,57.99,57.99,medium,low,8,namesilo,,,15/09/2026 01:17
 76f14644-5e2c-4172-8707-50759854e469,katz.maison,available,57.99,57.99,high,low,4,namesilo,,,25/09/2026 15:43
 9bcc3b87-4378-4b25-8793-2742876c57be,clifford.maison,available,57.99,57.99,high,low,8,namesilo,,,25/09/2026 14:06
 00c020ac-f17e-41ca-a2d0-53f670c2acb3,adoring.maison,available,60.98,69.98,high,low,7,namecheap,,,21/09/2026 19:41
@@ -336,13 +340,15 @@ b10701af-845b-4dc0-8d3d-936913cb8430,vocally.maison,available,60.98,69.98,medium
 05d66247-3e05-4485-a51d-5c0a8499bb81,attainable.maison,available,60.98,69.98,high,low,10,namecheap,,,19/09/2026 04:15
 72952f1f-062c-4931-807b-a61b69b8763b,voluntary.maison,available,57.99,57.99,high,low,9,namesilo,,,13/09/2026 07:07
 79232afb-529e-4060-bf00-c1785b504c91,amanda.maison,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 13:54
-172d0608-415d-4d03-9f1c-e5b278c54104,slim.maison,available,19.99,,high,low,4,name.com,,,
+172d0608-415d-4d03-9f1c-e5b278c54104,slim.maison,available,45.74,45.74,high,low,4,spaceship,,,27/09/2026 22:35
 bd546579-ca7c-43a5-9ad6-b613737c374f,iddm.maison,available,57.99,57.99,medium,low,4,namesilo,,,21/09/2026 06:41
+4a4e052a-3d67-4fa9-83a2-c07f5e94eae3,grain.maison,available,13.59,47.3,high,low,5,dynadot,,,28/09/2026 01:37
 5e30f150-15de-432d-a78f-c79114ebd3c6,pathless.maison,available,57.99,57.99,medium,low,8,namesilo,,,08/09/2026 10:25
 ef9170c3-4444-4bc1-a339-b816cad36dd3,raiment.maison,available,60.98,69.98,medium,low,7,namecheap,,,19/09/2026 19:57
 d0a03f89-cda2-45df-bbc0-bae45b823bc0,advertisement.maison,available,19.99,,high,low,13,name.com,,,
 828a4e5a-ece5-4bab-a391-a681a451c212,amorphous.maison,available,24.99,83.99,medium,low,9,name.com,,,
 d0a44611-c019-4408-a72a-2c38b278f969,exigent.maison,available,24.99,83.99,medium,low,7,name.com,,,13/08/2026 09:31
+43cc4150-e7bd-4145-b3a4-9b24fb407b8e,stadium.maison,available,57.99,57.99,high,low,7,namesilo,,,28/09/2026 03:07
 b2344e91-f4f3-49c8-b37d-7318f8bd51ee,alms.maison,available,57.99,57.99,medium,low,4,namesilo,,,18/09/2026 12:43
 67b645bf-77ef-4b8a-957a-5b12f5b305bd,abounding.maison,available,24.99,83.99,high,low,9,name.com,,,
 f686e0b3-71e6-4487-b314-970a2e0d24a2,prurient.maison,available,24.99,83.99,medium,low,8,name.com,,,24/08/2026 11:58
@@ -354,10 +360,10 @@ e440484c-b7fa-4d50-9190-8b1836fc300e,pad.maison,available,19.99,,high,low,3,name
 5660ad10-5775-4806-adf9-153e39e1177b,baboo.maison,available,57.99,57.99,high,low,5,namesilo,,,21/09/2026 12:51
 9ecb3162-b5bd-4573-8cae-66c902f12c3f,rubinstein.maison,available,60.98,69.98,medium,low,10,namecheap,,,19/09/2026 15:30
 3aea9d8a-a8b2-43db-8bbe-457318761f9f,fain.maison,available,24.99,83.99,medium,low,4,name.com,,,14/08/2026 12:05
-e4709d8e-ab2e-4090-ac67-32e54c2c0132,analyzed.maison,available,24.99,83.99,high,low,8,name.com,,,
+e4709d8e-ab2e-4090-ac67-32e54c2c0132,analyzed.maison,available,24.99,83.99,medium,low,8,name.com,,,
 b839eba0-2840-4b55-99f9-bcf873cf55af,gaps.maison,available,57.99,57.99,medium,low,4,namesilo,,,20/09/2026 11:47
 c83803e6-9db3-463e-933e-c2681741c4c5,triumphant.maison,available,24.99,83.99,high,low,10,name.com,,,17/08/2026 19:56
-44d81cd6-cbd3-40b2-a072-4caba6013b9b,modestly.maison,available,57.99,57.99,high,low,8,namesilo,,,15/09/2026 15:13
+44d81cd6-cbd3-40b2-a072-4caba6013b9b,modestly.maison,available,57.99,57.99,medium,low,8,namesilo,,,15/09/2026 15:13
 537c4400-e868-421b-aaf9-0f5aeeba1d5b,prosecution.maison,available,19.99,,high,low,11,name.com,,,
 8a6e72d6-2b94-4acc-9254-7742fd11a44f,delectable.maison,available,24.99,83.99,high,low,10,name.com,,,14/08/2026 00:21
 3b5c26c0-17d4-482f-a6ed-4012589b84ae,variation.maison,available,24.99,83.99,high,low,9,name.com,,,03/09/2026 11:43
@@ -379,7 +385,7 @@ cdd421b3-0bd6-4949-aaa5-6b9e0440d3b0,permitted.maison,available,19.99,,high,low,
 35328dee-2b7c-4d6e-856f-e17fd0d24717,adlumia.maison,available,57.99,57.99,medium,low,7,namesilo,,,17/09/2026 08:37
 33080398-ac0a-4676-bcbc-2f5f29451b7f,break.maison,available,57.99,57.99,high,low,5,namesilo,,,22/09/2026 17:01
 910758ff-b7ad-4e49-b5fe-6918b2283d49,accuracy.maison,available,57.99,57.99,high,low,8,namesilo,,,16/09/2026 23:21
-fcf4fc23-8798-428f-98f7-9614bc9bde9d,purposive.maison,available,24.99,83.99,high,low,9,name.com,,,20/08/2026 15:51
+fcf4fc23-8798-428f-98f7-9614bc9bde9d,purposive.maison,available,24.99,83.99,medium,low,9,name.com,,,20/08/2026 15:51
 21a767d3-4bc2-45ee-9d1e-5dddd1260f36,airdock.maison,available,57.99,57.99,medium,low,7,namesilo,,,17/09/2026 23:04
 90c356fa-eddd-4441-ab86-1b337db53df6,shops.maison,available,57.99,57.99,high,low,5,namesilo,,,18/09/2026 06:22
 d8ecd159-5457-476f-8a6b-36fb909a0e8e,multilevel.maison,available,57.99,57.99,medium,low,10,namesilo,,,03/09/2026 10:46
@@ -402,7 +408,7 @@ a1ea0654-ad1b-4459-a88d-afa58fcc5428,arsenal.maison,available,57.99,57.99,high,l
 fc9cef20-407f-4b04-8cfb-4f8b63e93f37,applier.maison,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 21:54
 127af8fc-f763-4e24-a671-8897030ed0f1,irritate.maison,available,19.99,,medium,low,8,name.com,,,
 cb24b195-5a05-4f2c-8216-16a50263fe5f,adorable.maison,available,60.98,69.98,high,low,8,namecheap,,,21/09/2026 19:18
-9cfbac00-632a-4f95-9554-a72251ba58e0,permissive.maison,available,60.98,69.98,high,low,10,namecheap,,,08/09/2026 17:48
+9cfbac00-632a-4f95-9554-a72251ba58e0,permissive.maison,available,60.98,69.98,medium,low,10,namecheap,,,08/09/2026 17:48
 4334d802-d266-4c5c-b02c-4c6f9ad6251d,gain.maison,available,57.99,57.99,high,low,4,namesilo,,,23/09/2026 07:57
 180b6f9e-ea1e-4ec1-97eb-7097b231f46f,anhydride.maison,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 08:24
 19b860f8-5122-4875-ab30-55be64530d2a,lucubrate.maison,available,24.99,83.99,medium,low,9,name.com,,,15/08/2026 23:00
@@ -443,7 +449,7 @@ afa13d32-f2ac-4858-ac32-724c98bfb30e,riders.maison,available,57.99,57.99,high,lo
 717fecb8-6caf-4018-b0e7-893dfbf53099,assay.maison,available,57.99,57.99,high,low,5,namesilo,,,20/09/2026 15:54
 2503abe1-2cbd-4f53-b380-ef3e66e7daca,deuce.maison,available,57.99,57.99,high,low,5,namesilo,,,21/09/2026 12:17
 ea430293-969e-42ea-ae40-fa7aad30368c,acceptance.maison,available,57.99,57.99,high,low,10,namesilo,,,16/09/2026 22:01
-2f576737-4d43-4f2e-8662-c3b663d6afae,irons.maison,available,19.99,,high,low,5,name.com,,,
+2f576737-4d43-4f2e-8662-c3b663d6afae,irons.maison,available,19.99,,medium,low,5,name.com,,,
 47cbf163-36ad-4835-aaa3-e6e7ba280391,enable.maison,available,19.99,,high,low,6,name.com,,,
 5c7e8e6a-9fb0-46d5-8a21-e83c6e79b7e8,legion.maison,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 13:28
 a77f2b1e-35e2-4f62-92c1-aa06df40e308,trimmed.maison,available,60.98,69.98,high,low,7,namecheap,,,11/09/2026 20:02
@@ -458,7 +464,7 @@ faa97f5f-c73b-48b4-8185-2c74e884e103,quivering.maison,available,60.98,69.98,medi
 d88e3850-4487-4f2d-9cc9-9003dd0f9e96,excellent.maison,available,60.98,69.98,high,low,9,namecheap,,,24/09/2026 15:50
 bea0e554-51cd-4ed0-b3c0-f2823849b583,yawning.maison,available,57.99,57.99,high,low,7,namesilo,,,13/09/2026 14:18
 45c8303e-4d24-40f4-8819-9bfb78e5da8a,diego.maison,available,57.99,57.99,high,low,5,namesilo,,,26/09/2026 03:12
-1d9cee1a-8e83-401a-b397-f41209dda9a2,grin.maison,available,19.99,,high,low,4,name.com,,,
+1d9cee1a-8e83-401a-b397-f41209dda9a2,grin.maison,available,45.74,45.74,high,low,4,spaceship,,,27/09/2026 23:08
 aa52b5b6-a96a-4b25-a3d4-3d579f821259,moveable.maison,available,24.99,83.99,high,low,8,name.com,,,25/08/2026 09:05
 dce9fea8-2356-468d-96db-a3fd73f3a938,snatch.maison,available,57.99,57.99,high,low,6,namesilo,,,19/09/2026 14:54
 880d0dd9-4c30-4178-9a9f-b9ad38b7f85e,boiling.maison,available,57.99,57.99,high,low,7,namesilo,,,14/09/2026 00:51
@@ -474,7 +480,7 @@ cb9c754d-70e0-425f-a8f7-399c0310214f,sausage.maison,available,19.99,,high,low,7,
 e7fa6568-971a-46c6-a251-8bfe503ad0b5,alidad.maison,available,60.98,69.98,medium,low,6,namecheap,,,18/09/2026 07:31
 35a19256-24bc-4585-a658-c7ada6eae55c,etcetera.maison,available,60.98,69.98,high,low,8,namecheap,,,13/09/2026 19:52
 0f02f71e-6b2e-4b48-9bf0-cf7c29dcb449,muddled.maison,available,57.99,57.99,medium,low,7,namesilo,,,03/09/2026 10:22
-fa1bdab9-1914-4de3-8968-fba28c759458,cropped.maison,available,24.99,83.99,high,low,7,name.com,,,13/08/2026 07:53
+fa1bdab9-1914-4de3-8968-fba28c759458,cropped.maison,available,24.99,83.99,medium,low,7,name.com,,,13/08/2026 07:53
 e4677e78-aefc-4470-b3ce-947070f8781a,advertised.maison,available,24.99,83.99,medium,low,10,name.com,,,
 d0cbaeb7-249f-424d-bede-583a8a823c57,unedited.maison,available,24.99,83.99,medium,low,8,name.com,,,12/09/2026 08:51
 1b069de5-0db2-4976-a09a-0a31fce0375f,nwo.maison,available,19.99,,high,low,3,name.com,,,
@@ -482,7 +488,7 @@ d0cbaeb7-249f-424d-bede-583a8a823c57,unedited.maison,available,24.99,83.99,mediu
 0fb66e42-3f2d-463d-8fe7-d867604ec150,blur.maison,available,24.99,83.99,high,low,4,name.com,,,10/08/2026 14:05
 76aada73-3378-4d60-99ea-e3059ac31b44,stream.maison,available,24.99,83.99,high,medium,6,name.com,,,27/09/2026 05:33
 f5100357-14b2-49fe-a021-6bea7c4c1059,dishonored.maison,available,24.99,83.99,medium,low,10,name.com,,,14/08/2026 10:23
-6f8ff5c5-17db-48d2-b9d6-76c03798862b,phonic.maison,available,60.98,69.98,high,low,6,namecheap,,,08/09/2026 19:06
+6f8ff5c5-17db-48d2-b9d6-76c03798862b,phonic.maison,available,60.98,69.98,medium,low,6,namecheap,,,08/09/2026 19:06
 8912ddd3-fe7a-496a-aac6-fce5aca83f41,cytologic.maison,available,24.99,83.99,medium,low,9,name.com,,,13/08/2026 14:39
 e2b6e066-a69e-49f0-9445-44317c965b5d,involves.maison,available,57.99,57.99,medium,low,8,namesilo,,,19/09/2026 23:56
 b9884564-b424-432e-b3fa-4fa2b6c6c317,classroom.maison,available,19.99,,high,low,9,name.com,,,
@@ -490,12 +496,12 @@ b9884564-b424-432e-b3fa-4fa2b6c6c317,classroom.maison,available,19.99,,high,low,
 4abe17e6-6ea4-40f3-b8d4-9ecbff9d568e,questions.maison,available,60.98,69.98,high,low,9,namecheap,,,24/09/2026 10:21
 a630c30e-2364-4837-98c1-2bb5c1c54526,astana.maison,available,57.99,57.99,high,low,6,namesilo,,,18/09/2026 00:11
 2068b030-942c-4fee-938a-60e5e1cffcd0,taylor.maison,available,19.99,,high,low,6,name.com,,,
-c5668bb2-657f-402e-a04f-427e37882cf4,boned.maison,available,24.99,83.99,high,low,5,name.com,,,10/08/2026 18:34
+c5668bb2-657f-402e-a04f-427e37882cf4,boned.maison,available,24.99,83.99,medium,low,5,name.com,,,10/08/2026 18:34
 89a60ad7-0a17-419a-9525-ab70003b10a9,centuries.maison,available,57.99,57.99,medium,low,9,namesilo,,,17/09/2026 04:43
 68ffd086-c2af-433c-be1c-ac077f4e47fc,engines.maison,available,60.98,69.98,medium,low,7,namecheap,,,19/09/2026 19:59
 e434ccbd-143f-47ed-aebe-6038932b2509,naseby.maison,available,57.99,57.99,medium,low,6,namesilo,,,22/09/2026 15:31
 d8f74689-c28a-4e8f-ac2b-d239509a0bfb,subverter.maison,available,57.99,57.99,medium,low,9,namesilo,,,09/09/2026 16:25
-36e7b05b-f113-46e5-b609-3eeaf8fa2b7b,nationally.maison,available,57.99,57.99,high,low,10,namesilo,,,03/09/2026 13:44
+36e7b05b-f113-46e5-b609-3eeaf8fa2b7b,nationally.maison,available,57.99,57.99,medium,low,10,namesilo,,,03/09/2026 13:44
 f700867e-5d4a-4a99-bd6e-866a7a6c010d,vulpine.maison,available,57.99,57.99,medium,low,7,namesilo,,,13/09/2026 07:26
 07420d07-ed1a-4986-b465-e79c6447190b,pads.maison,available,57.99,57.99,high,low,4,namesilo,,,20/09/2026 10:38
 fc43b7dc-d9c2-4297-8615-631ae4a1a33a,buffet.maison,available,57.99,57.99,high,low,6,namesilo,,,19/09/2026 17:05
@@ -505,10 +511,11 @@ f744035e-c717-475c-ad33-822284efcc5c,grace.maison,available,60.98,69.98,high,med
 0ade1070-ff65-4c75-bbab-db5a2ea7489e,printable.maison,available,57.99,57.99,high,low,9,namesilo,,,27/09/2026 05:59
 90226ee6-8471-40fc-b0d5-9189e9d105a7,vagile.maison,available,57.99,57.99,low,low,6,namesilo,,,13/09/2026 00:47
 72e59dd1-b25a-4ed7-9c6e-49c5d3f94a99,robbed.maison,available,60.98,69.98,low,low,6,namecheap,,,27/09/2026 02:44
-94bbf58a-6bff-48ad-9321-2cd347335d66,gratuitous.maison,available,24.99,83.99,high,low,10,name.com,,,13/08/2026 03:14
+94bbf58a-6bff-48ad-9321-2cd347335d66,gratuitous.maison,available,24.99,83.99,medium,low,10,name.com,,,13/08/2026 03:14
 e4ef919b-8057-45a5-ae7e-4b9a7b569ff5,chamber.maison,available,57.99,57.99,high,low,7,namesilo,,,22/09/2026 23:10
 7038386b-9df8-49f8-abf3-1fd7fa6b2d57,redress.maison,available,57.99,57.99,high,low,7,namesilo,,,09/09/2026 17:27
-9c38950c-0a96-41ad-83a5-2814e1e5e635,lesion.maison,available,57.99,57.99,high,low,6,namesilo,,,13/09/2026 13:28
+61675be6-7db6-430b-8846-5062f67795c9,chalmers.maison,available,44.2,44.2,medium,low,8,cloudflare,,,27/09/2026 20:38
+9c38950c-0a96-41ad-83a5-2814e1e5e635,lesion.maison,available,57.99,57.99,medium,low,6,namesilo,,,13/09/2026 13:28
 8cf7c304-e785-4db0-b4c6-3939e9593535,constable.maison,available,57.99,57.99,high,low,9,namesilo,,,24/09/2026 17:31
 70a69d0b-4d7d-4e25-ac07-0852805a917b,untrusty.maison,available,24.99,83.99,medium,low,8,name.com,,,12/09/2026 21:46
 4c318e5f-d4d8-4631-8aa4-0b1dab61c73e,clogged.maison,available,24.99,83.99,medium,low,7,name.com,,,12/08/2026 06:41
@@ -538,59 +545,61 @@ f13ff6a7-c3a3-47e0-8ed0-0032e83fa013,ambystoma.maison,available,57.99,57.99,medi
 eddce39d-f15a-4b96-998f-ee89c0fe21f7,squint.maison,available,24.99,83.99,high,low,6,name.com,,,07/08/2026 03:15
 4dcff9c4-4ace-4abb-8f6f-934858f83486,cooking.maison,premium,78.54,78.54,high,low,7,namesilo,,,08/09/2026 08:19
 48f94a6c-5dd7-4bea-9115-40d8fd2ed5b3,carthage.maison,available,57.99,57.99,medium,low,8,namesilo,,,25/09/2026 04:02
-10a8deda-8b08-434f-a06f-572b30656b94,nuremberg.maison,available,57.99,57.99,high,low,9,namesilo,,,25/09/2026 23:53
+10a8deda-8b08-434f-a06f-572b30656b94,nuremberg.maison,available,57.99,57.99,medium,low,9,namesilo,,,25/09/2026 23:53
 a0b1d1ec-3ed9-4d57-84f3-e97c0ae3c5fa,beef.maison,available,57.99,57.99,high,low,4,namesilo,,,23/09/2026 00:18
 60477535-1bdb-4ad3-90f8-5caec6daf6e9,digitate.maison,available,24.99,83.99,medium,low,8,name.com,,,14/08/2026 07:19
-bc6bfc31-3d82-4597-9321-45b52119dbd9,obliterate.maison,available,24.99,83.99,high,low,10,name.com,,,10/08/2026 15:34
+bc6bfc31-3d82-4597-9321-45b52119dbd9,obliterate.maison,available,24.99,83.99,medium,low,10,name.com,,,10/08/2026 15:34
 46c73540-2adb-410d-b769-a45ebb19136e,breast.maison,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 08:29
 08624c2f-b259-4d37-abca-4479058cecc2,policy.maison,available,19.99,,high,low,6,name.com,,,
 910a21eb-57ae-424c-97c7-cc7f16ba694d,container.maison,premium,118.8,118.8,high,medium,9,namesilo,,,
 f763914e-6b9b-4ec8-a9ee-9f6c9517a463,crucial.maison,available,60.98,69.98,high,low,7,namecheap,,,22/09/2026 00:39
-ccca65fd-728b-43f1-afab-5a06de5b679a,bifocal.maison,available,24.99,83.99,high,low,7,name.com,,,09/08/2026 20:03
+ccca65fd-728b-43f1-afab-5a06de5b679a,bifocal.maison,available,24.99,83.99,medium,low,7,name.com,,,09/08/2026 20:03
 3e57c24b-71fa-48f8-9421-dbf7eca4f6fd,decide.maison,available,19.99,,high,low,6,name.com,,,
 25754c02-5f31-4bba-837a-636ed31f2680,valmy.maison,available,57.99,57.99,medium,low,5,namesilo,,,22/09/2026 16:13
 4111ed06-8c16-4d6d-826d-a2dfa582e37c,steam.maison,available,19.99,,high,medium,5,name.com,,,
 c7f17049-f981-427b-93be-185b738edd5f,abortus.maison,available,60.98,69.98,medium,low,7,namecheap,,,16/09/2026 16:40
 d5bae66c-fffd-421f-84ea-a797f3e6d6d0,buzzing.maison,available,24.99,83.99,high,low,7,name.com,,,
+57b95e47-426e-4c7e-b05e-ed24531fb0d2,traditional.maison,available,44.2,44.2,high,low,11,cloudflare,,,27/09/2026 16:56
 7fa44e93-07ac-4907-9813-fa529c6288c5,unashamed.maison,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 01:08
 7021f3c1-5edb-4263-b98e-149ae2ba17be,letter.maison,available,60.98,69.98,high,low,6,namecheap,,,24/09/2026 02:40
 a135f28b-5f7f-4d3e-805b-7fd3668dc33f,painfully.maison,available,57.99,57.99,medium,low,9,namesilo,,,14/09/2026 13:22
 f3b43f84-3ca8-4cf9-a83c-54389d802537,letters.maison,available,19.99,,high,low,7,name.com,,,
 6b08be85-65b1-4e60-8011-7b8c2d9d78ae,proportion.maison,available,19.99,,high,low,10,name.com,,,
 398fc8a2-af6e-4028-b880-386dc9d46cb1,saturnine.maison,available,24.99,83.99,medium,low,9,name.com,,,20/08/2026 15:03
-68e44765-4875-46ce-8fad-0eb06949db88,seeing.maison,available,19.99,,high,low,6,name.com,,,
+68e44765-4875-46ce-8fad-0eb06949db88,seeing.maison,available,60.98,69.98,high,low,6,namecheap,,,27/09/2026 19:35
 1f9d181e-a9e5-4c39-819e-1271f2b15306,contraband.maison,available,60.98,69.98,high,low,10,namecheap,,,22/09/2026 21:25
 98bfc9e1-e8b8-4eab-8a31-53ec6de0a3bd,sip.maison,available,19.99,,high,low,3,name.com,,,
 438c983e-3740-4a15-a4d8-4c1ef5e44dbb,facetious.maison,available,24.99,83.99,medium,low,9,name.com,,,08/08/2026 14:39
 43e1ed06-87e0-4f63-bbcb-14aa0280f858,casserole.maison,available,57.99,57.99,high,low,9,namesilo,,,24/09/2026 13:04
 a5a924de-3f65-44c0-b8ab-fb44641c7984,slam.maison,available,19.99,,high,low,4,name.com,,,
 39ceabe2-62d2-4359-8615-8e123b99b60f,tragedy.maison,available,57.99,57.99,medium,low,7,namesilo,,,24/09/2026 11:39
-d39b429f-6dfc-4250-8ef5-f94e6f4895cd,certain.maison,available,19.99,,high,low,7,name.com,,,
+d39b429f-6dfc-4250-8ef5-f94e6f4895cd,certain.maison,available,44.2,44.2,high,low,7,cloudflare,,,27/09/2026 19:05
 fb42d9aa-931f-42dd-b78f-39f5141b099d,image.maison,available,60.98,69.98,high,medium,5,namecheap,,,23/09/2026 07:57
 9298b761-3276-4298-aa91-32725e6c517e,weirdly.maison,available,57.99,57.99,medium,low,7,namesilo,,,16/09/2026 11:23
 99331eb8-352e-4b9d-880c-df2402aad927,indiana.maison,available,19.99,,high,low,7,name.com,,,
-3e7cb767-b0c3-42a6-abb0-d42b15faa8e0,grueling.maison,available,24.99,83.99,high,low,8,name.com,,,06/08/2026 16:45
-01ce6c74-27a0-4779-9796-3c17a1db64a5,sheppard.maison,available,57.99,57.99,high,low,8,namesilo,,,27/09/2026 08:04
+3e7cb767-b0c3-42a6-abb0-d42b15faa8e0,grueling.maison,available,24.99,83.99,medium,low,8,name.com,,,06/08/2026 16:45
+01ce6c74-27a0-4779-9796-3c17a1db64a5,sheppard.maison,available,57.99,57.99,medium,low,8,namesilo,,,27/09/2026 08:04
 c240f0fa-ae40-43b2-9cb8-303b5f75ccdf,alien.maison,available,24.99,83.99,high,medium,5,name.com,,,
 f99408db-059c-4a1a-9db6-10155a89069d,hindi.maison,available,24.99,83.99,high,low,5,name.com,,,21/08/2026 09:32
 c3b8d441-5dd2-4ac3-82b3-4bf0840fe98d,countywide.maison,available,24.99,83.99,high,low,10,name.com,,,13/08/2026 03:48
 5050fbb9-1970-4834-9e2b-5b04ba499b4d,butch.maison,available,24.99,83.99,medium,low,5,name.com,,,11/08/2026 11:29
 1292374d-7924-4582-9a84-249f0f01ceba,faintly.maison,available,57.99,57.99,medium,low,7,namesilo,,,14/09/2026 17:33
 173697b1-f73c-4259-90db-61516fa797b0,tech.maison,available,57.99,57.99,high,medium,4,namesilo,,,27/09/2026 01:41
-c54fd9bb-bc66-4b57-a5d6-c4663e694c82,motherlike.maison,available,24.99,83.99,high,low,10,name.com,,,25/08/2026 07:04
+c54fd9bb-bc66-4b57-a5d6-c4663e694c82,motherlike.maison,available,24.99,83.99,medium,low,10,name.com,,,25/08/2026 07:04
+9511abc7-041f-4d55-9996-dd802698b5a7,follows.maison,available,45.74,45.74,high,low,7,spaceship,,,27/09/2026 18:23
 0dbcce6f-036c-4a24-b06d-4184fc54c1ed,magazines.maison,available,60.98,69.98,medium,low,9,namecheap,,,18/09/2026 18:19
 179f12d8-cc65-4f9d-a716-4b21e36860b1,funnily.maison,available,57.99,57.99,medium,low,7,namesilo,,,14/09/2026 20:40
 1b5ecdd6-faaa-4fb5-bce5-84321dd5dae0,unlearned.maison,available,24.99,83.99,medium,low,9,name.com,,,21/08/2026 18:31
 afe6b4e7-1c20-4896-a04d-6f5694597a67,eros.maison,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 17:09
 5fd82635-6a71-40b3-bcc0-de7c36f0cc53,felonious.maison,available,24.99,83.99,medium,low,9,name.com,,,18/08/2026 00:58
-f63979e6-560e-4cb9-bd82-e684d7fe2a1f,samples.maison,available,57.99,57.99,high,low,7,namesilo,,,20/09/2026 18:39
+f63979e6-560e-4cb9-bd82-e684d7fe2a1f,samples.maison,available,57.99,57.99,medium,low,7,namesilo,,,20/09/2026 18:39
 3bbbf56f-3fce-4bc1-a89b-28dfa36e5477,fallen.maison,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 16:26
 e4a2fb5c-1b82-4495-ba7a-e427925b0fd2,apoapsis.maison,available,60.98,69.98,medium,low,8,namecheap,,,19/09/2026 18:07
 d0ea98a7-cfdd-4aca-866d-428bac8c166c,boreal.maison,available,24.99,83.99,high,low,6,name.com,,,10/08/2026 19:55
 e1acd40a-9f2f-4a9f-ad80-f4c6481e9f40,unending.maison,available,24.99,83.99,high,low,8,name.com,,,
 b189b435-c20f-4424-9b37-6bcb008a6b32,takes.maison,available,19.99,,medium,low,5,name.com,,,
 98aeb670-e98f-4642-ad01-4c3b125b59a9,specialized.maison,available,19.99,,high,low,11,name.com,,,
-dbe9139f-c52a-4706-97da-408796ff250b,rae.maison,available,57.99,57.99,high,low,3,namesilo,,,27/09/2026 01:43
+dbe9139f-c52a-4706-97da-408796ff250b,rae.maison,available,57.99,57.99,medium,low,3,namesilo,,,27/09/2026 01:43
 b11efc0e-4cae-4d48-88aa-7029814293ce,agnostical.maison,available,24.99,83.99,medium,low,10,name.com,,,
 e6cdcd7a-e9fd-4533-bada-1af9f73a82ce,aureole.maison,available,57.99,57.99,high,low,7,namesilo,,,21/09/2026 04:18
 7c583814-e16d-43e9-82a7-9cd7b040161b,soberly.maison,available,57.99,57.99,medium,low,7,namesilo,,,14/09/2026 22:10
@@ -633,8 +642,8 @@ b63ebf7a-cefe-45ca-9a8c-9a081ca287cb,pastorale.maison,available,57.99,57.99,medi
 b3788f79-fb92-4df1-be10-4ebfbe17f5f7,josiah.maison,available,57.99,57.99,medium,low,6,namesilo,,,27/09/2026 01:34
 7bc37e38-c156-4de1-b244-326f301d7577,bimetal.maison,available,24.99,83.99,high,low,7,name.com,,,09/08/2026 22:52
 331fc28e-18e0-4c72-b3d6-3719cada35fd,loves.maison,available,60.98,69.98,high,low,5,namecheap,,,25/09/2026 18:55
-dea4996c-aef6-40b9-846d-289959df08b0,stanch.maison,available,60.98,69.98,high,low,6,namecheap,,,10/09/2026 19:26
-afa09a98-c955-45e6-ba53-99210a564ca0,obtuse.maison,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 12:17
+dea4996c-aef6-40b9-846d-289959df08b0,stanch.maison,available,60.98,69.98,medium,low,6,namecheap,,,10/09/2026 19:26
+afa09a98-c955-45e6-ba53-99210a564ca0,obtuse.maison,available,57.99,57.99,medium,low,6,namesilo,,,24/09/2026 12:17
 70e19cdc-7bee-4560-afb0-210a2c68577f,payment.maison,premium,118.8,118.8,high,low,7,namesilo,,,25/09/2026 23:01
 d70a216a-e6a2-4960-88d4-954244e2e2e3,forsaking.maison,available,57.99,57.99,medium,low,9,namesilo,,,16/09/2026 13:59
 34e1b820-bc4b-486f-b485-ba78d0eeefe0,carping.maison,available,24.99,83.99,medium,low,7,name.com,,,18/08/2026 00:03
@@ -657,17 +666,19 @@ f9841e99-e468-489d-9853-4017a0137ac8,mock.maison,available,24.99,83.99,high,low,
 db5dde30-8071-45a6-8666-f9e372626096,catclaw.maison,available,57.99,57.99,medium,low,7,namesilo,,,23/09/2026 23:59
 9c3f178c-4c1d-423e-b51e-820a014c6b85,comment.maison,available,60.98,69.98,high,low,7,namecheap,,,24/09/2026 16:29
 8b3e7322-7a01-448f-b5df-a483bd19546d,birds.maison,available,19.99,,high,low,5,name.com,,,
-ca629bb6-6db1-47c7-8de9-32b8c8a767a6,goof.maison,available,57.99,57.99,high,low,4,namesilo,,,24/09/2026 06:18
+ca629bb6-6db1-47c7-8de9-32b8c8a767a6,goof.maison,available,57.99,57.99,medium,low,4,namesilo,,,24/09/2026 06:18
 98eb44df-b9bf-4b07-b2cd-6b6ddc7020fe,jumentous.maison,available,24.99,83.99,low,low,9,name.com,,,22/08/2026 14:21
 186a619a-a76a-4900-9519-30efa01b2bcc,reply.maison,available,19.99,,high,low,5,name.com,,,
 d582b6d8-e3b5-450f-a3a2-4f0fb1c49fc1,prospering.maison,available,24.99,83.99,medium,low,10,name.com,,,10/08/2026 19:17
 82b830de-09fb-428f-bec7-87f90e5dcb63,nowise.maison,available,57.99,57.99,low,low,6,namesilo,,,15/09/2026 17:05
 2a51b411-12dc-4434-963a-f254354569dc,medici.maison,available,57.99,57.99,high,low,6,namesilo,,,25/09/2026 23:33
-bef3d421-0e69-485e-85b5-bd38fef2a1bc,mordant.maison,available,24.99,83.99,high,low,7,name.com,,,13/08/2026 02:11
+bef3d421-0e69-485e-85b5-bd38fef2a1bc,mordant.maison,available,24.99,83.99,medium,low,7,name.com,,,13/08/2026 02:11
 f82fdb3c-d8da-428b-99c2-d5ba17421ce8,brazilian.maison,available,24.99,83.99,high,low,9,name.com,,,11/08/2026 02:57
 685b9fdb-036b-4b4a-8c01-043098f79392,supplier.maison,available,19.99,,high,low,8,name.com,,,
 58c85328-6672-481f-9995-c68aff8238ac,mesonic.maison,available,24.99,83.99,medium,low,7,name.com,,,24/08/2026 21:09
+fdbbef20-9919-4f14-824b-3c28681ceab3,pigeon.maison,available,57.99,57.99,high,low,6,namesilo,,,28/09/2026 02:55
 3fd02ce1-410f-4373-af37-f6fdcd8a6db2,changeable.maison,available,24.99,83.99,medium,low,10,name.com,,,12/08/2026 01:51
+6244bfe1-d889-45e4-8835-286c11156ffd,optimized.maison,available,44.2,44.2,high,low,9,cloudflare,,,27/09/2026 22:29
 047eebde-5ed0-43e0-9c67-1ecdbdb7a8bb,achy.maison,available,24.99,83.99,medium,low,4,name.com,,,
 6f256e05-f02d-424b-958d-4b26c3cb38a4,unwilling.maison,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 22:40
 d999c651-ee82-4ae2-9a2d-a8fa1e60b1c8,kathryn.maison,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 07:34
@@ -681,9 +692,9 @@ f0af38f8-f09e-42e1-8a3c-cfd70954b1d7,spineless.maison,available,24.99,83.99,medi
 86e2f3f1-b1b9-4209-b7ba-81f8d5927fc8,caused.maison,available,60.98,69.98,medium,low,6,namecheap,,,25/09/2026 18:57
 43ff89dd-16df-4115-8d8f-8cfe2dc1fd5c,booklist.maison,available,19.99,,high,low,8,name.com,,,
 81644eda-3ecb-4106-bff7-062d513d39a8,atom.maison,available,57.99,57.99,high,medium,4,namesilo,,,20/09/2026 21:53
-63cc7d29-7e2a-4914-8e40-79cd4444e087,computable.maison,available,24.99,83.99,high,low,10,name.com,,,12/08/2026 19:42
+63cc7d29-7e2a-4914-8e40-79cd4444e087,computable.maison,available,57.99,57.99,high,low,10,namesilo,,,28/09/2026 02:42
 4f1f2425-ce2c-41be-b318-b2c57a597dae,erotic.maison,available,24.99,83.99,high,low,6,name.com,,,17/08/2026 12:42
-0d869fa1-0517-4604-b8df-0278302f2049,appointed.maison,available,24.99,83.99,high,low,9,name.com,,,06/08/2026 07:21
+0d869fa1-0517-4604-b8df-0278302f2049,appointed.maison,available,24.99,83.99,medium,low,9,name.com,,,06/08/2026 07:21
 da9013b9-d8b5-4037-8c2e-b4387928c386,antiquated.maison,available,24.99,83.99,medium,low,10,name.com,,,
 858c0b8d-1362-4728-b02f-94d28a4b2e89,ament.maison,available,60.98,69.98,medium,low,5,namecheap,,,18/09/2026 18:57
 d6a0f890-4099-4801-9f67-952d0a6110ac,comatose.maison,available,24.99,83.99,medium,low,8,name.com,,,12/08/2026 18:25
@@ -699,7 +710,7 @@ ca99e6cd-b601-493c-b58e-8accf4ff568c,acute.maison,available,60.98,69.98,high,low
 7c1b4138-fc66-447b-b2dd-38d7c3e01532,bidding.maison,available,60.98,69.98,high,low,7,namecheap,,,23/09/2026 13:29
 99f30ec8-b8ae-411f-89f8-b0c7f018142e,deadline.maison,available,19.99,,high,low,8,name.com,,,
 d2be7b78-1bab-40e2-a81f-e390e2fa788f,honeymoons.maison,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 01:32
-51470f1c-450d-4b38-b5df-9fe801f4e5d4,silvertip.maison,available,24.99,83.99,high,low,9,name.com,,,20/08/2026 20:13
+51470f1c-450d-4b38-b5df-9fe801f4e5d4,silvertip.maison,available,24.99,83.99,medium,low,9,name.com,,,20/08/2026 20:13
 d8da09cd-3fc8-4bcb-aefc-8979d0fd7735,talking.maison,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 10:48
 801079bc-1750-4aeb-9aa7-cebf7f0694b1,howling.maison,available,24.99,83.99,high,low,7,name.com,,,21/08/2026 14:24
 0f15e772-157f-406d-bb4f-af07537d957b,cuvier.maison,available,57.99,57.99,high,low,6,namesilo,,,22/09/2026 07:06
@@ -710,7 +721,7 @@ fe879294-310a-41ec-807a-1a7bfaef4389,eidetic.maison,available,24.99,83.99,medium
 abbe6708-6a79-41ca-822a-1b615234bf55,fanlike.maison,available,24.99,83.99,medium,low,7,name.com,,,17/08/2026 22:07
 8301706e-4f0c-4081-aedf-72082fc83d65,caption.maison,available,57.99,57.99,high,low,7,namesilo,,,24/09/2026 12:41
 2012cb52-dc9d-481b-b9af-ee89d0259422,pencilled.maison,available,57.99,57.99,medium,low,9,namesilo,,,08/09/2026 13:59
-3d52b581-8139-4366-8465-30404673fe2a,urbanized.maison,available,57.99,57.99,high,low,9,namesilo,,,12/09/2026 23:29
+3d52b581-8139-4366-8465-30404673fe2a,urbanized.maison,available,57.99,57.99,medium,low,9,namesilo,,,12/09/2026 23:29
 6ecdef4f-e7c6-4793-ba55-5a7df2a7b2f1,supplies.maison,premium,128.7,128.7,medium,low,8,namecheap,,,
 6937fc95-f5d6-42c5-a3d7-f3be445c33ff,incoherent.maison,available,24.99,83.99,medium,low,10,name.com,,,22/08/2026 01:42
 78349bd8-867f-4554-9673-49181478f916,valuator.maison,available,60.98,69.98,high,low,8,namecheap,,,19/09/2026 22:13
@@ -719,7 +730,7 @@ aba53329-aa78-4326-aa54-d42f9e8e698b,worshipful.maison,available,24.99,83.99,hig
 73bd0b1a-0e74-41b9-b813-de64a3e14c7a,airspace.maison,available,57.99,57.99,high,low,8,namesilo,,,17/09/2026 22:49
 b0412e61-9080-4749-b019-cef1839dcb30,senescent.maison,available,24.99,83.99,medium,low,9,name.com,,,
 2784a1ae-11c3-46c7-b912-db8afc0f8207,borodin.maison,available,60.98,69.98,high,low,7,namecheap,,,18/09/2026 05:02
-8f90ddf8-47dd-4dd9-97b9-952442c69966,shaky.maison,available,19.99,,medium,low,5,name.com,,,
+8f90ddf8-47dd-4dd9-97b9-952442c69966,shaky.maison,available,45.74,45.74,medium,low,5,spaceship,,,27/09/2026 14:56
 67faa2a0-a233-4f82-9f1b-2f4be7ff6d06,mon.maison,available,19.99,,high,low,3,name.com,,,
 d9817f76-0c8c-457f-bbd9-ea33b4505b9f,windmills.maison,available,60.98,69.98,medium,low,9,namecheap,,,20/09/2026 13:55
 5c8ce8bf-5777-4fc2-bb3c-eb4c8dbfa229,inhumane.maison,available,24.99,83.99,medium,low,8,name.com,,,22/08/2026 05:17
@@ -733,11 +744,11 @@ f82f883f-758f-47ee-ae08-055243fdc99b,needed.maison,available,57.99,57.99,high,lo
 dd21f6e9-e72e-4da3-a62a-818363902e4a,alteration.maison,available,57.99,57.99,high,low,10,namesilo,,,18/09/2026 14:42
 d0e407d4-a2d8-4c1a-ad57-2bd3c739c9d9,walker.maison,available,57.99,57.99,high,low,6,namesilo,,,08/09/2026 12:36
 efd05f3d-0d2c-49f9-8544-21afc9e12779,uncomfortable.maison,available,57.99,57.99,medium,low,13,namesilo,,,26/09/2026 00:44
-8e73cbc6-3dae-4beb-8626-6024d623d329,dishonor.maison,available,19.99,,high,low,8,name.com,,,
+8e73cbc6-3dae-4beb-8626-6024d623d329,dishonor.maison,available,19.99,,medium,low,8,name.com,,,
 9955c330-33cd-4f79-81bb-0aeb09fc08c7,hipped.maison,available,24.99,83.99,medium,low,6,name.com,,,21/08/2026 09:41
 60b00d21-5f5b-46ba-9503-22622f06dc66,taste.maison,available,19.99,,high,low,5,name.com,,,
 c14fcea6-22c9-42bb-b9c2-158e80e184ab,craven.maison,available,24.99,83.99,medium,low,6,name.com,,,13/08/2026 05:27
-743c584e-30cf-4426-8ae8-857aa578f5f4,properly.maison,available,24.99,83.99,high,low,8,name.com,,,13/08/2026 21:12
+743c584e-30cf-4426-8ae8-857aa578f5f4,properly.maison,available,24.99,83.99,medium,low,8,name.com,,,13/08/2026 21:12
 ba174b8b-7f76-4ede-b3cc-9f51cb385d86,unstylish.maison,available,57.99,57.99,medium,low,9,namesilo,,,10/09/2026 23:17
 a8ef3df8-534b-479b-9d21-69555967a8b8,gobs.maison,available,57.99,57.99,high,low,4,namesilo,,,14/09/2026 23:34
 01a8dbd1-e09d-4847-bced-fccf14e2ee22,zippo.maison,available,57.99,57.99,high,low,5,namesilo,,,03/09/2026 22:45
@@ -753,10 +764,10 @@ bde903b8-e79f-4407-848d-63a44f9ca2cd,atrocious.maison,available,57.99,57.99,medi
 f7be759b-f322-46cb-8a0d-983bacbe7b78,translunar.maison,available,57.99,57.99,medium,low,10,namesilo,,,11/09/2026 02:19
 11c091a2-089a-4eec-9305-76ca723c163f,operate.maison,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 06:12
 602b2db5-c9f1-4aa6-b1c1-1c468dd4e0be,battered.maison,available,60.98,69.98,medium,low,8,namecheap,,,22/09/2026 18:12
-84e4884b-3162-48ec-be2f-6bae67a9522b,ruiz.maison,available,60.98,69.98,high,low,4,namecheap,,,27/09/2026 07:03
+84e4884b-3162-48ec-be2f-6bae67a9522b,ruiz.maison,available,60.98,69.98,medium,low,4,namecheap,,,27/09/2026 07:03
 d9ac4237-6625-406b-8950-d61413bdcccb,cute.maison,available,60.98,69.98,high,low,4,namecheap,,,24/09/2026 03:46
 6bc89316-e518-42cc-a483-1419f9a35d3e,startling.maison,available,60.98,69.98,medium,low,9,namecheap,,,10/09/2026 19:02
-b316b020-6d9c-4386-a155-1db60e9af2f2,turns.maison,available,57.99,57.99,high,low,5,namesilo,,,18/09/2026 14:48
+b316b020-6d9c-4386-a155-1db60e9af2f2,turns.maison,available,57.99,57.99,medium,low,5,namesilo,,,18/09/2026 14:48
 b82ad825-4c88-4949-9355-cfb8685b03a9,chary.maison,available,24.99,83.99,medium,low,5,name.com,,,12/08/2026 02:59
 3eb16946-049d-4b3d-98d5-2f2d3ecc9723,nocturnal.maison,available,60.98,69.98,high,low,9,namecheap,,,03/09/2026 18:04
 e6efcba2-b7bf-42bb-90b9-48dfe2a9cee3,viciously.maison,available,24.99,83.99,medium,low,9,name.com,,,14/09/2026 01:35
@@ -786,7 +797,7 @@ ec9bfdce-8c93-4a8d-b8f6-4f67e1d4beb1,clipper.maison,available,60.98,69.98,high,l
 78cb98fe-572e-4042-ad98-69ef2863ae5c,plumping.maison,available,57.99,57.99,medium,low,8,namesilo,,,08/09/2026 21:52
 f150729c-31db-4022-8200-a3c04923348e,easter.maison,available,57.99,57.99,high,low,6,namesilo,,,24/09/2026 13:11
 939c27f0-2f72-4d4b-bdc9-1beb0b1573ee,incipient.maison,available,24.99,83.99,medium,low,9,name.com,,,22/08/2026 01:14
-fed3ea3a-0dde-49f6-8ffc-212590568953,grouped.maison,available,24.99,83.99,high,low,7,name.com,,,20/08/2026 20:22
+fed3ea3a-0dde-49f6-8ffc-212590568953,grouped.maison,available,24.99,83.99,medium,low,7,name.com,,,20/08/2026 20:22
 afbf4522-56ab-4b67-a51a-5e10fedf0ee8,eighty.maison,available,24.99,83.99,high,low,6,name.com,,,
 2540f27d-89d9-4a66-b891-8998f0d2c5ac,marginal.maison,available,57.99,57.99,high,low,8,namesilo,,,23/09/2026 00:04
 47e83c6f-da68-4714-9997-cc272d4d96dc,manifest.maison,available,24.99,83.99,high,medium,8,name.com,,,06/08/2026 05:17
@@ -802,13 +813,13 @@ d8bfdb99-0ea7-4e2b-9933-4375ae15009a,relative.maison,available,24.99,83.99,high,
 4eea22dc-7ae9-403b-b2e9-f7eb5c81245f,needy.maison,available,57.99,57.99,medium,low,5,namesilo,,,24/09/2026 06:57
 0eb9209b-423b-4cc5-b58d-44466e729202,edirne.maison,available,57.99,57.99,medium,low,6,namesilo,,,17/09/2026 10:01
 d69aac4a-3595-40df-8a1c-a2402174164c,gran.maison,available,19.99,,high,low,4,name.com,,,
-122f2923-7c52-4c26-81e1-4b000c79887a,sweetish.maison,available,57.99,57.99,high,low,8,namesilo,,,11/09/2026 05:36
+122f2923-7c52-4c26-81e1-4b000c79887a,sweetish.maison,available,57.99,57.99,medium,low,8,namesilo,,,11/09/2026 05:36
 c875a2bf-d824-4176-99a5-9608a7f8a007,fontenoy.maison,available,57.99,57.99,medium,low,8,namesilo,,,22/09/2026 15:04
-065d40ab-887e-418d-a41c-660acb5e5c87,gleefully.maison,available,60.98,69.98,high,low,9,namecheap,,,14/09/2026 21:28
+065d40ab-887e-418d-a41c-660acb5e5c87,gleefully.maison,available,60.98,69.98,medium,low,9,namecheap,,,14/09/2026 21:28
 794a114f-45b9-4738-ae6f-2fae3d26ff29,blacking.maison,available,57.99,57.99,medium,low,8,namesilo,,,24/09/2026 02:49
 3cc407bd-b648-49da-ad5b-021d9e33e8a5,copaiba.maison,available,57.99,57.99,medium,low,7,namesilo,,,22/09/2026 00:08
 14296372-0b68-49af-83a6-195f22a72ae6,madrid.maison,available,19.99,,high,low,6,name.com,,,
-66953689-9d81-4609-8b47-d5073e1b4c88,aggravated.maison,available,24.99,83.99,high,low,10,name.com,,,
+66953689-9d81-4609-8b47-d5073e1b4c88,aggravated.maison,available,24.99,83.99,medium,low,10,name.com,,,
 a135e6a2-1c7e-4361-8199-40c70c6c64a7,beingness.maison,available,57.99,57.99,medium,low,9,namesilo,,,23/09/2026 04:19
 649aa4b8-f7ee-4a84-9340-ad74cfebbbd0,metastable.maison,available,24.99,83.99,medium,low,10,name.com,,,24/08/2026 21:47
 476625ac-a3b0-4688-b259-2d7eb7ee320e,seething.maison,available,57.99,57.99,medium,low,8,namesilo,,,10/09/2026 01:49
@@ -820,7 +831,7 @@ a0884def-931d-43b5-97f1-21bbe5ffc6df,meaning.maison,available,60.98,69.98,high,l
 fd9b62cf-0362-43b9-ab03-a0642ecfc73a,channel.maison,available,19.99,,high,low,7,name.com,,,
 b0b5bc2c-d859-4e39-ab09-bd4bead2d662,clipboards.maison,available,57.99,57.99,medium,low,10,namesilo,,,20/09/2026 11:59
 8821e399-366c-4aef-ba00-ecc038f630ec,fits.maison,available,57.99,57.99,medium,low,4,namesilo,,,18/09/2026 18:43
-dc1b9fc7-2b3d-4640-811f-58491d9fc182,stupid.maison,available,19.99,,high,low,6,name.com,,,
+dc1b9fc7-2b3d-4640-811f-58491d9fc182,stupid.maison,available,44.2,44.2,high,low,6,cloudflare,,,28/09/2026 01:43
 3db4f80f-89b4-4f06-ba25-2e51852ae5c8,planar.maison,available,57.99,57.99,high,low,6,namesilo,,,08/09/2026 20:37
 50a11d98-a20e-4a1e-bfba-d3e812319548,cathectic.maison,available,24.99,83.99,medium,low,9,name.com,,,11/08/2026 21:45
 8655c554-9523-4d8f-b446-50b03e9d5020,encyclical.maison,available,24.99,83.99,medium,low,10,name.com,,,17/08/2026 00:42
@@ -834,8 +845,10 @@ e26a98cb-d4ca-435b-b483-54c3b9350111,arcade.maison,available,57.99,57.99,high,lo
 cc113782-9b19-4ef4-8280-a83e45c9152d,bitt.maison,available,57.99,57.99,medium,low,4,namesilo,,,23/09/2026 22:49
 ec138d1d-a82c-42e2-a76b-5dbcfaa807b9,backache.maison,available,60.98,69.98,medium,low,8,namecheap,,,21/09/2026 14:56
 406b193a-5eb0-4cc6-b175-9fdadeebc951,candidate.maison,available,19.99,,high,low,9,name.com,,,
-ea0ce450-d633-4a93-954b-836aabe4be3f,workfare.maison,available,19.99,,high,low,8,name.com,,,
+ea0ce450-d633-4a93-954b-836aabe4be3f,workfare.maison,available,19.99,,medium,low,8,name.com,,,
 98de1e5e-29a6-45f9-8d1d-d2d34161e066,futurity.maison,available,24.99,83.99,high,low,8,name.com,,,18/08/2026 19:11
+44d90481-b055-431a-b451-830ced9f7b22,lagos.maison,available,57.99,57.99,high,low,5,namesilo,,,27/09/2026 14:38
+d1f8f16e-3372-4395-ab03-6e200947a951,benefits.maison,available,13.39,45.83,high,low,8,porkbun,,,27/09/2026 23:08
 9907e823-87df-4530-b957-103946c677b5,chirpy.maison,available,24.99,83.99,high,low,6,name.com,,,12/08/2026 06:03
 6165d0b3-b75e-4b2b-9137-d2707e1c9ca5,aquiline.maison,available,24.99,83.99,medium,low,8,name.com,,,06/08/2026 11:01
 79b0100e-7c7b-4731-baf8-3d4ed5db9299,unless.maison,available,57.99,57.99,medium,low,6,namesilo,,,26/09/2026 03:05
@@ -862,14 +875,15 @@ ea3249f0-8147-4e73-ad8d-8c41b179c46d,dependence.maison,available,57.99,57.99,med
 fff05707-0214-46c5-a549-b72b0f20cd68,inactive.maison,available,24.99,83.99,medium,low,8,name.com,,,22/08/2026 00:11
 55480ef0-e94c-4e16-9637-d0b5795d5496,soto.maison,available,57.99,57.99,high,low,4,namesilo,,,27/09/2026 07:28
 dd1d6f83-2afe-40d9-bc72-a2e916519c02,lumpy.maison,available,24.99,83.99,medium,low,5,name.com,,,12/08/2026 07:46
+dfb3428a-ed2b-4ad6-a60d-50fc4861055b,gravity.maison,available,57.99,57.99,high,medium,7,namesilo,,,27/09/2026 13:53
 b5d8bf6b-ecd9-476d-b8e6-9c6626f0871b,lace.maison,available,19.99,,high,low,4,name.com,,,
 fa20a9a9-f288-4934-b4dd-33510401eac8,cash.maison,available,57.99,57.99,high,medium,4,namesilo,,,25/09/2026 04:05
-8461ce5f-8302-4b0a-87b6-b5cd039907f8,internet.maison,premium,128.7,128.7,high,medium,8,namecheap,,,25/09/2026 03:19
+8461ce5f-8302-4b0a-87b6-b5cd039907f8,internet.maison,premium,128.7,128.7,high,medium,8,namecheap,,,28/09/2026 03:13
 f5a7bb46-75c8-4e19-aa20-207c9c1aef94,crafty.maison,available,60.98,69.98,high,low,6,namecheap,,,24/09/2026 01:24
 51a833a5-999f-4513-9594-a10d9347270b,dampen.maison,available,24.99,83.99,medium,low,6,name.com,,,13/08/2026 16:53
 add3ed66-6da2-4cb1-8f9e-f96c895881bc,vibratory.maison,available,57.99,57.99,medium,low,9,namesilo,,,13/09/2026 05:09
 2553c930-ee06-4a7d-a9af-02c918f503ec,russians.maison,available,57.99,57.99,medium,low,8,namesilo,,,27/09/2026 10:58
-26116139-20a9-41fe-bd51-b23b9d90e78d,mesial.maison,available,24.99,83.99,high,low,6,name.com,,,24/08/2026 21:08
+26116139-20a9-41fe-bd51-b23b9d90e78d,mesial.maison,available,24.99,83.99,medium,low,6,name.com,,,24/08/2026 21:08
 e5c730e5-86e4-489f-8425-e11c33f932a6,steakhouse.maison,available,60.98,69.98,high,low,10,namecheap,,,24/09/2026 14:46
 3575b89e-236e-434f-927d-5767748bf435,agrypnia.maison,available,60.98,69.98,medium,low,8,namecheap,,,17/09/2026 20:02
 708cac74-aed0-4280-90b1-72c3733e9517,hunter.maison,available,57.99,57.99,high,medium,6,namesilo,,,27/09/2026 04:29
@@ -909,7 +923,9 @@ d5638142-d57d-44e0-9c74-6c49a8376ec1,reticently.maison,available,57.99,57.99,med
 953addf8-e603-403e-b0f2-367f4575b532,anteroom.maison,available,57.99,57.99,high,low,8,namesilo,,,19/09/2026 12:42
 6b9748bc-997e-4bda-a913-9d81918ab704,mutinous.maison,available,57.99,57.99,medium,low,8,namesilo,,,03/09/2026 11:55
 636e29ab-5c1a-423d-a998-2c5feed68a8e,kansas.maison,available,19.99,,high,low,6,name.com,,,
-5ea51af5-5b13-4300-a91b-a46771c5c7db,astragalus.maison,available,57.99,57.99,high,low,10,namesilo,,,19/09/2026 09:45
+5ea51af5-5b13-4300-a91b-a46771c5c7db,astragalus.maison,available,57.99,57.99,medium,low,10,namesilo,,,19/09/2026 09:45
+328ef7a2-ed90-40a5-b08e-ed7449fe643a,marching.maison,available,13.59,47.3,high,low,8,dynadot,,,28/09/2026 02:19
+363d4b82-0707-4571-8de5-449dbc732a72,harriet.maison,available,44.2,44.2,high,low,7,cloudflare,,,27/09/2026 22:29
 1323c6b4-c76d-47d0-8af4-46d41be8e23a,nonwhite.maison,available,24.99,83.99,medium,low,9,name.com,,,13/08/2026 18:06
 a6cc7f3a-b6e7-4109-9b1e-2c1ab67898ec,tartaric.maison,available,24.99,83.99,medium,low,8,name.com,,,11/09/2026 08:48
 900efa9e-2ad1-4bb9-9cd1-d294049e8947,stranded.maison,available,60.98,69.98,high,low,8,namecheap,,,25/09/2026 17:00
@@ -919,12 +935,12 @@ c76a4a5f-e839-4cb4-b34b-8813d03cb6e6,archaic.maison,available,24.99,83.99,high,l
 986f957a-d40b-4a1e-b164-537f736c31d8,estate.maison,premium,78.54,78.54,high,low,6,namesilo,,,17/09/2026 02:55
 b03f8530-38bb-44ad-85f4-1f0fd056e17d,philistine.maison,available,24.99,83.99,medium,low,10,name.com,,,
 f7bfec43-2fbd-4eee-a92a-51c850e5373c,trig.maison,available,24.99,83.99,high,low,4,name.com,,,12/08/2026 10:13
-e32a5df3-9297-4ad1-9b69-507445e7704c,doughy.maison,available,24.99,83.99,high,low,6,name.com,,,14/08/2026 17:03
+e32a5df3-9297-4ad1-9b69-507445e7704c,doughy.maison,available,24.99,83.99,medium,low,6,name.com,,,14/08/2026 17:03
 1e42f12b-b66f-402d-a5d4-cda44e7a37ec,bucolic.maison,available,24.99,83.99,high,low,7,name.com,,,06/08/2026 14:14
 636197c2-4a82-401f-bc1b-5ccb354d23b6,lillian.maison,available,57.99,57.99,medium,low,7,namesilo,,,26/09/2026 03:34
 e0b16d72-b770-4e2d-8c63-1c0833b5d402,innocuous.maison,available,24.99,83.99,high,low,9,name.com,,,22/08/2026 05:56
 88f9d386-9e06-4005-bf66-eaff3c9410b9,creole.maison,available,24.99,83.99,high,low,6,name.com,,,13/08/2026 06:07
-b236d678-1212-47ca-a2b2-493cfaa9a585,written.maison,available,19.99,,high,low,7,name.com,,,
+b236d678-1212-47ca-a2b2-493cfaa9a585,written.maison,available,57.99,57.99,high,low,7,namesilo,,,27/09/2026 18:44
 43fa0883-abcc-4d23-b5d8-522a9559f0ab,murky.maison,available,24.99,83.99,medium,low,5,name.com,,,25/08/2026 01:08
 88ceb832-5415-4f79-99b9-21a39ba20172,ingrown.maison,available,24.99,83.99,medium,low,7,name.com,,,22/08/2026 04:56
 e7ce014a-8d40-4323-8b86-2d17b31664d5,hot.maison,available,57.99,57.99,high,medium,3,namesilo,,,19/09/2026 15:25
@@ -932,14 +948,14 @@ a3ebf1b7-0d21-4cac-9971-f26daf65f44d,wake.maison,available,60.98,69.98,high,low,
 149371b3-67f4-461d-8cb7-1432562c60d9,ingredient.maison,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 16:51
 4a572c6e-baba-4923-bdf6-9dc5bf9848e2,sentient.maison,available,57.99,57.99,high,medium,8,namesilo,,,10/09/2026 03:52
 4b0487ca-4067-4a85-8fde-c0181656ea73,feature.maison,available,57.99,57.99,high,low,7,namesilo,,,23/09/2026 13:48
-50142989-78bd-4c38-b672-2a397cea6286,obsolete.maison,available,24.99,83.99,high,low,8,name.com,,,14/08/2026 13:30
+50142989-78bd-4c38-b672-2a397cea6286,obsolete.maison,available,24.99,83.99,medium,low,8,name.com,,,14/08/2026 13:30
 faf2a532-d72c-4fde-b68e-001ea0a5d521,hollow.maison,available,24.99,83.99,high,low,6,name.com,,,21/08/2026 10:31
 6b422a5d-6f6a-4578-b3c8-d093d0def08c,inclusive.maison,available,24.99,83.99,high,low,9,name.com,,,22/08/2026 01:35
 11d82759-1d0c-4264-b141-360e639a8af8,underestimated.maison,available,19.99,,medium,low,14,name.com,,,
 b5868393-6363-438d-bba2-b53e3f20cb57,amiability.maison,available,57.99,57.99,high,low,10,namesilo,,,17/09/2026 13:57
 a757cd74-86f9-4261-a8af-b59bb402dc22,bumpy.maison,available,24.99,83.99,medium,low,5,name.com,,,11/08/2026 09:48
 0bd535fb-59ef-4a44-b4e6-8d3b35452729,vexing.maison,available,24.99,83.99,medium,low,6,name.com,,,
-bf014178-5477-4deb-b536-fbdfc27d76b8,foggy.maison,available,24.99,83.99,high,low,5,name.com,,,10/08/2026 16:21
+bf014178-5477-4deb-b536-fbdfc27d76b8,foggy.maison,available,24.99,83.99,medium,low,5,name.com,,,10/08/2026 16:21
 575e12db-7742-40fe-ab2e-56b8070f15ef,commuter.maison,available,57.99,57.99,high,low,8,namesilo,,,24/09/2026 16:39
 e429c414-333f-49a0-8670-d6c0d633bf01,greed.maison,available,57.99,57.99,high,low,5,namesilo,,,21/09/2026 08:43
 8e810981-d19d-4e6e-83d2-0b7ab9150423,graspable.maison,available,24.99,83.99,medium,low,9,name.com,,,06/08/2026 08:18
@@ -981,21 +997,5 @@ cde45198-fd5b-4f44-8f60-8cbf45a49ccc,secrets.maison,available,60.98,69.98,medium
 aa7e3eaa-662a-4731-8fd9-574d8b0ec9a2,rhomboid.maison,available,57.99,57.99,medium,low,8,namesilo,,,09/09/2026 16:47
 f9cae183-6885-4bea-9dd2-2fbd3da947e1,requisite.maison,available,24.99,83.99,high,low,9,name.com,,,17/08/2026 13:21
 2d36ae3c-b2f6-4c6c-93e0-b0610bbf1ef3,abrader.maison,available,57.99,57.99,medium,low,7,namesilo,,,16/09/2026 16:48
-6a1f91d0-a0f9-4455-ba1f-2cb60c290d48,burgess.maison,available,57.99,57.99,high,low,7,namesilo,,,19/09/2026 13:35
+6a1f91d0-a0f9-4455-ba1f-2cb60c290d48,burgess.maison,available,57.99,57.99,medium,low,7,namesilo,,,19/09/2026 13:35
 29d83d2e-d842-4da3-a667-bb7842e31c88,tautog.maison,available,57.99,57.99,medium,low,6,namesilo,,,24/09/2026 02:17
-8793a073-3d5c-415e-9cc6-6c2f3ed12980,buttonwood.maison,available,60.98,69.98,high,low,10,namecheap,,,18/09/2026 20:34
-f68e39f3-5246-4981-82d3-37ac13a4df09,amply.maison,available,57.99,57.99,medium,low,5,namesilo,,,13/09/2026 19:37
-2f53d4d1-d686-4d2e-922a-63af1ecc1c19,ibidem.maison,available,57.99,57.99,medium,low,6,namesilo,,,15/09/2026 01:34
-227de8dc-3c5c-458f-95c3-1870c9641249,cleverly.maison,available,19.99,,high,low,8,name.com,,,
-f9b8f61e-24ef-4a59-a3d6-995510ed8acb,centimeter.maison,available,57.99,57.99,high,low,10,namesilo,,,24/09/2026 13:34
-2b151c1a-e74a-4bc2-b270-9179388e7a6a,astrometry.maison,available,60.98,69.98,medium,low,10,namecheap,,,20/09/2026 17:53
-5621c0ca-5883-44da-950c-52afdb164d4f,mimic.maison,available,24.99,83.99,high,low,5,name.com,,,24/08/2026 23:29
-280d4d4c-47df-4764-9f69-ac3c75aab876,accomplice.maison,available,60.98,69.98,high,low,10,namecheap,,,16/09/2026 22:50
-7bd7d2fd-47c9-4dc7-8bdb-e4eea98efd4b,hunker.maison,available,57.99,57.99,medium,low,6,namesilo,,,10/09/2026 17:39
-408b507d-c9e6-41ea-a733-579c78628952,subversive.maison,available,24.99,83.99,high,low,10,name.com,,,22/08/2026 07:46
-13d3f06d-3594-40b2-b166-f8f24f7e19dc,pie.maison,available,57.99,57.99,high,low,3,namesilo,,,25/09/2026 09:59
-c2d1a8f9-28c6-4a89-9217-0aa76045e160,enrich.maison,available,19.99,,high,low,6,name.com,,,
-8ce55feb-3184-4bae-8825-beda27af966c,officer.maison,available,57.99,57.99,high,low,7,namesilo,,,25/09/2026 09:25
-8681e8e4-0deb-467d-abfb-876073e50b11,ataraxis.maison,available,57.99,57.99,medium,low,8,namesilo,,,20/09/2026 19:42
-4f9afb9f-c488-4aa6-91fd-778ff80b1d49,abandon.maison,available,24.99,83.99,high,low,7,name.com,,,14/08/2026 03:52
-07b89a3d-7a00-46c1-8b83-2fe28472ad28,flattened.maison,available,24.99,83.99,high,low,9,name.com,,,18/08/2026 06:55
