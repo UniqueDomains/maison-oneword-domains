@@ -1,10 +1,10 @@
-# Available .MAISON One-Word Domains (33,390)
+# Available .MAISON One-Word Domains (35,780)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C390%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C780%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .maison one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,390 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,780 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,390 domains · **Median ask:** $46.89 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 35,780 domains · **Median ask:** $47.00 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/maison`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| abu.maison       | available | $13.59    | $47.30        | high           | low    | 3      | dynadot    |
-| net.maison       | premium   | $512      | $512          | high           | medium | 3      | namesilo   |
-| ahn.maison       | available | $45.74    | $45.74        | medium         | low    | 3      | spaceship  |
-| uae.maison       | premium   | $72.60    | $72.60        | high           | medium | 3      | dynadot    |
-| bat.maison       | available | $60.98    | $69.98        | high           | low    | 3      | namecheap  |
-| zoo.maison       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo   |
-| bcs.maison       | available | $44.20    | $44.20        | high           | low    | 3      | cloudflare |
-| sexy.maison      | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo   |
-| bpi.maison       | available | $60.98    | $69.98        | high           | low    | 3      | namecheap  |
-| offer.maison     | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
-| ccc.maison       | available | $24.99    | $83.99        | high           | medium | 3      | name.com   |
-| tokyo.maison     | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo   |
-| ccf.maison       | available | $13.39    | $45.83        | high           | low    | 3      | porkbun    |
-| energy.maison    | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo   |
-| den.maison       | available | $57.99    | $57.99        | high           | low    | 3      | namesilo   |
-| cooking.maison   | premium   | $68.51    | $68.51        | high           | low    | 7      | spaceship  |
-| dim.maison       | available | $24.99    | $83.99        | high           | low    | 3      | name.com   |
-| payment.maison   | premium   | $118.80   | $118.80       | high           | medium | 7      | namesilo   |
-| dre.maison       | available | $44.20    | $44.20        | high           | low    | 3      | cloudflare |
-| container.maison | premium   | $118.80   | $118.80       | high           | high   | 9      | namesilo   |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| abu.maison     | available | $13.59    | $47.30        | high           | low    | 3      | dynadot    |
+| net.maison     | premium   | $512      | $512          | high           | medium | 3      | namesilo   |
+| ahn.maison     | available | $45.74    | $45.74        | medium         | low    | 3      | spaceship  |
+| uae.maison     | premium   | $72.60    | $72.60        | high           | medium | 3      | dynadot    |
+| bat.maison     | available | $60.98    | $69.98        | high           | low    | 3      | namecheap  |
+| zoo.maison     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo   |
+| bcs.maison     | available | $44.20    | $44.20        | high           | low    | 3      | cloudflare |
+| sexy.maison    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo   |
+| bpi.maison     | available | $60.98    | $69.98        | high           | low    | 3      | namecheap  |
+| offer.maison   | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo   |
+| ccc.maison     | available | $24.99    | $83.99        | high           | medium | 3      | name.com   |
+| tokyo.maison   | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo   |
+| ccf.maison     | available | $13.39    | $45.83        | high           | low    | 3      | porkbun    |
+| energy.maison  | premium   | $118.80   | $118.80       | high           | medium | 6      | namesilo   |
+| den.maison     | available | $57.99    | $57.99        | high           | low    | 3      | namesilo   |
+| royale.maison  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo   |
+| dim.maison     | available | $24.99    | $83.99        | high           | low    | 3      | name.com   |
+| cooking.maison | premium   | $68.51    | $68.51        | high           | low    | 7      | spaceship  |
+| dre.maison     | available | $44.20    | $44.20        | high           | low    | 3      | cloudflare |
+| payment.maison | premium   | $102.67   | $102.67       | high           | medium | 7      | spaceship  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,390 live domains                        |
+| 1,000-row public sample | 35,780 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MAISON One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
